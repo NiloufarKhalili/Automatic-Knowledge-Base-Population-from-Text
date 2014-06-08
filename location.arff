@@ -1,0 +1,2885 @@
+@relation CountryOfBirth
+
+@attribute 000  {'0','1'}
+@attribute 03  {'0','1'}
+@attribute 10  {'0','1'}
+@attribute 100th  {'0','1'}
+@attribute 105  {'0','1'}
+@attribute 109th  {'0','1'}
+@attribute 10th  {'0','1'}
+@attribute 11  {'0','1'}
+@attribute 1158  {'0','1'}
+@attribute 1181  {'0','1'}
+@attribute 11th  {'0','1'}
+@attribute 12  {'0','1'}
+@attribute 1235  {'0','1'}
+@attribute 1241  {'0','1'}
+@attribute 1252  {'0','1'}
+@attribute 1265  {'0','1'}
+@attribute 13  {'0','1'}
+@attribute 1301  {'0','1'}
+@attribute 138  {'0','1'}
+@attribute 14  {'0','1'}
+@attribute 1406  {'0','1'}
+@attribute 1452  {'0','1'}
+@attribute 14th  {'0','1'}
+@attribute 15  {'0','1'}
+@attribute 150  {'0','1'}
+@attribute 1502  {'0','1'}
+@attribute 1528  {'0','1'}
+@attribute 1559  {'0','1'}
+@attribute 155th  {'0','1'}
+@attribute 1564  {'0','1'}
+@attribute 1565  {'0','1'}
+@attribute 1567  {'0','1'}
+@attribute 1570  {'0','1'}
+@attribute 1572  {'0','1'}
+@attribute 1574  {'0','1'}
+@attribute 16  {'0','1'}
+@attribute 163rd  {'0','1'}
+@attribute 17  {'0','1'}
+@attribute 173  {'0','1'}
+@attribute 17th  {'0','1'}
+@attribute 18  {'0','1'}
+@attribute 1813  {'0','1'}
+@attribute 1815  {'0','1'}
+@attribute 1822  {'0','1'}
+@attribute 1837  {'0','1'}
+@attribute 1847  {'0','1'}
+@attribute 1853  {'0','1'}
+@attribute 1861  {'0','1'}
+@attribute 1862  {'0','1'}
+@attribute 1868  {'0','1'}
+@attribute 1869  {'0','1'}
+@attribute 1870  {'0','1'}
+@attribute 1875  {'0','1'}
+@attribute 1876  {'0','1'}
+@attribute 1877  {'0','1'}
+@attribute 1879  {'0','1'}
+@attribute 1880  {'0','1'}
+@attribute 1884  {'0','1'}
+@attribute 1887  {'0','1'}
+@attribute 1888  {'0','1'}
+@attribute 1893  {'0','1'}
+@attribute 1894  {'0','1'}
+@attribute 1897  {'0','1'}
+@attribute 1898  {'0','1'}
+@attribute 1899  {'0','1'}
+@attribute 18th  {'0','1'}
+@attribute 19  {'0','1'}
+@attribute 1901  {'0','1'}
+@attribute 1903  {'0','1'}
+@attribute 1904  {'0','1'}
+@attribute 1905  {'0','1'}
+@attribute 1907  {'0','1'}
+@attribute 1911  {'0','1'}
+@attribute 1912  {'0','1'}
+@attribute 1914  {'0','1'}
+@attribute 1916  {'0','1'}
+@attribute 1917  {'0','1'}
+@attribute 1918  {'0','1'}
+@attribute 1919  {'0','1'}
+@attribute 1921  {'0','1'}
+@attribute 1925  {'0','1'}
+@attribute 1926  {'0','1'}
+@attribute 1927  {'0','1'}
+@attribute 1931  {'0','1'}
+@attribute 1932  {'0','1'}
+@attribute 1933  {'0','1'}
+@attribute 1935  {'0','1'}
+@attribute 1936  {'0','1'}
+@attribute 1937  {'0','1'}
+@attribute 1939  {'0','1'}
+@attribute 1941  {'0','1'}
+@attribute 1942  {'0','1'}
+@attribute 1943  {'0','1'}
+@attribute 1944  {'0','1'}
+@attribute 1945  {'0','1'}
+@attribute 1946  {'0','1'}
+@attribute 1949  {'0','1'}
+@attribute 1951  {'0','1'}
+@attribute 1952  {'0','1'}
+@attribute 1953  {'0','1'}
+@attribute 1954  {'0','1'}
+@attribute 1955  {'0','1'}
+@attribute 1956  {'0','1'}
+@attribute 1957  {'0','1'}
+@attribute 1959  {'0','1'}
+@attribute 1960  {'0','1'}
+@attribute 1960s  {'0','1'}
+@attribute 1961  {'0','1'}
+@attribute 1963  {'0','1'}
+@attribute 1964  {'0','1'}
+@attribute 1965  {'0','1'}
+@attribute 1966  {'0','1'}
+@attribute 1968  {'0','1'}
+@attribute 1969  {'0','1'}
+@attribute 1970  {'0','1'}
+@attribute 1971  {'0','1'}
+@attribute 1972  {'0','1'}
+@attribute 1973  {'0','1'}
+@attribute 1974  {'0','1'}
+@attribute 1975  {'0','1'}
+@attribute 1976  {'0','1'}
+@attribute 1977  {'0','1'}
+@attribute 1978  {'0','1'}
+@attribute 1979  {'0','1'}
+@attribute 1980  {'0','1'}
+@attribute 1981  {'0','1'}
+@attribute 1982  {'0','1'}
+@attribute 1983  {'0','1'}
+@attribute 1984  {'0','1'}
+@attribute 1985  {'0','1'}
+@attribute 1986  {'0','1'}
+@attribute 1987  {'0','1'}
+@attribute 1988  {'0','1'}
+@attribute 1989  {'0','1'}
+@attribute 199  {'0','1'}
+@attribute 1990  {'0','1'}
+@attribute 1990s  {'0','1'}
+@attribute 1991  {'0','1'}
+@attribute 1992  {'0','1'}
+@attribute 1994  {'0','1'}
+@attribute 1996  {'0','1'}
+@attribute 1997  {'0','1'}
+@attribute 1999  {'0','1'}
+@attribute 19th  {'0','1'}
+@attribute 1st  {'0','1'}
+@attribute 20  {'0','1'}
+@attribute 200  {'0','1'}
+@attribute 2000  {'0','1'}
+@attribute 2001  {'0','1'}
+@attribute 2002  {'0','1'}
+@attribute 2003  {'0','1'}
+@attribute 2004  {'0','1'}
+@attribute 2005  {'0','1'}
+@attribute 2006  {'0','1'}
+@attribute 2007  {'0','1'}
+@attribute 2008  {'0','1'}
+@attribute 2009  {'0','1'}
+@attribute 201st  {'0','1'}
+@attribute 21  {'0','1'}
+@attribute 2100  {'0','1'}
+@attribute 22  {'0','1'}
+@attribute 23  {'0','1'}
+@attribute 23rd  {'0','1'}
+@attribute 24  {'0','1'}
+@attribute 25  {'0','1'}
+@attribute 251st  {'0','1'}
+@attribute 26  {'0','1'}
+@attribute 27  {'0','1'}
+@attribute 28  {'0','1'}
+@attribute 29  {'0','1'}
+@attribute 2nd  {'0','1'}
+@attribute 30  {'0','1'}
+@attribute 300  {'0','1'}
+@attribute 309  {'0','1'}
+@attribute 31  {'0','1'}
+@attribute 353  {'0','1'}
+@attribute 39  {'0','1'}
+@attribute 3rd  {'0','1'}
+@attribute 40  {'0','1'}
+@attribute 454240  {'0','1'}
+@attribute 45th  {'0','1'}
+@attribute 48  {'0','1'}
+@attribute 49  {'0','1'}
+@attribute 4th  {'0','1'}
+@attribute 50  {'0','1'}
+@attribute 500  {'0','1'}
+@attribute 54  {'0','1'}
+@attribute 55  {'0','1'}
+@attribute 55th  {'0','1'}
+@attribute 56th  {'0','1'}
+@attribute 572  {'0','1'}
+@attribute 582  {'0','1'}
+@attribute 595  {'0','1'}
+@attribute 5th  {'0','1'}
+@attribute 600  {'0','1'}
+@attribute 61  {'0','1'}
+@attribute 65  {'0','1'}
+@attribute 70  {'0','1'}
+@attribute 71  {'0','1'}
+@attribute 74  {'0','1'}
+@attribute 75th  {'0','1'}
+@attribute 78  {'0','1'}
+@attribute 79  {'0','1'}
+@attribute 7th  {'0','1'}
+@attribute 80  {'0','1'}
+@attribute 83  {'0','1'}
+@attribute 87  {'0','1'}
+@attribute 88  {'0','1'}
+@attribute 93  {'0','1'}
+@attribute 94  {'0','1'}
+@attribute 97  {'0','1'}
+@attribute 9th  {'0','1'}
+@attribute abandoned  {'0','1'}
+@attribute abandoning  {'0','1'}
+@attribute abdomenal  {'0','1'}
+@attribute abilities  {'0','1'}
+@attribute aboard  {'0','1'}
+@attribute about  {'0','1'}
+@attribute absent  {'0','1'}
+@attribute academia  {'0','1'}
+@attribute accepted  {'0','1'}
+@attribute access  {'0','1'}
+@attribute accident  {'0','1'}
+@attribute acclaimed  {'0','1'}
+@attribute accordingly  {'0','1'}
+@attribute accused  {'0','1'}
+@attribute act  {'0','1'}
+@attribute acted  {'0','1'}
+@attribute acting  {'0','1'}
+@attribute action  {'0','1'}
+@attribute actions  {'0','1'}
+@attribute active  {'0','1'}
+@attribute activist  {'0','1'}
+@attribute actor  {'0','1'}
+@attribute actress  {'0','1'}
+@attribute actresses  {'0','1'}
+@attribute actually  {'0','1'}
+@attribute ad  {'0','1'}
+@attribute adapt  {'0','1'}
+@attribute adjacent  {'0','1'}
+@attribute administered  {'0','1'}
+@attribute admiral  {'0','1'}
+@attribute admitted  {'0','1'}
+@attribute advertising  {'0','1'}
+@attribute affected  {'0','1'}
+@attribute affiliate  {'0','1'}
+@attribute affiliated  {'0','1'}
+@attribute after  {'0','1'}
+@attribute again  {'0','1'}
+@attribute against  {'0','1'}
+@attribute age  {'0','1'}
+@attribute aged  {'0','1'}
+@attribute agent  {'0','1'}
+@attribute aggressive  {'0','1'}
+@attribute aging  {'0','1'}
+@attribute agreed  {'0','1'}
+@attribute agreement  {'0','1'}
+@attribute aiming  {'0','1'}
+@attribute air  {'0','1'}
+@attribute aircraft  {'0','1'}
+@attribute aired  {'0','1'}
+@attribute ais  {'0','1'}
+@attribute aka  {'0','1'}
+@attribute al  {'0','1'}
+@attribute album  {'0','1'}
+@attribute alcohol  {'0','1'}
+@attribute all  {'0','1'}
+@attribute alleged  {'0','1'}
+@attribute allies  {'0','1'}
+@attribute allowed  {'0','1'}
+@attribute along  {'0','1'}
+@attribute already  {'0','1'}
+@attribute also  {'0','1'}
+@attribute amassed  {'0','1'}
+@attribute amateur  {'0','1'}
+@attribute ambassador  {'0','1'}
+@attribute amnesty  {'0','1'}
+@attribute among  {'0','1'}
+@attribute an  {'0','1'}
+@attribute analysis  {'0','1'}
+@attribute anchor  {'0','1'}
+@attribute ancilliary  {'0','1'}
+@attribute and  {'0','1'}
+@attribute animated  {'0','1'}
+@attribute anniversary  {'0','1'}
+@attribute announced  {'0','1'}
+@attribute announcement  {'0','1'}
+@attribute annual  {'0','1'}
+@attribute another  {'0','1'}
+@attribute anterior  {'0','1'}
+@attribute anti  {'0','1'}
+@attribute apart  {'0','1'}
+@attribute apartheid  {'0','1'}
+@attribute appearance  {'0','1'}
+@attribute appearances  {'0','1'}
+@attribute appeared  {'0','1'}
+@attribute appearing  {'0','1'}
+@attribute appears  {'0','1'}
+@attribute applied  {'0','1'}
+@attribute appointed  {'0','1'}
+@attribute appointing  {'0','1'}
+@attribute archbishop  {'0','1'}
+@attribute archipelago  {'0','1'}
+@attribute architect  {'0','1'}
+@attribute architecture  {'0','1'}
+@attribute are  {'0','1'}
+@attribute area  {'0','1'}
+@attribute arm  {'0','1'}
+@attribute armed  {'0','1'}
+@attribute armistice  {'0','1'}
+@attribute army  {'0','1'}
+@attribute around  {'0','1'}
+@attribute arrangement  {'0','1'}
+@attribute arrived  {'0','1'}
+@attribute art  {'0','1'}
+@attribute article  {'0','1'}
+@attribute artist  {'0','1'}
+@attribute artistic  {'0','1'}
+@attribute as  {'0','1'}
+@attribute asking  {'0','1'}
+@attribute aspects  {'0','1'}
+@attribute assassin  {'0','1'}
+@attribute assassinate  {'0','1'}
+@attribute asserted  {'0','1'}
+@attribute assignment  {'0','1'}
+@attribute assistant  {'0','1'}
+@attribute associate  {'0','1'}
+@attribute associated  {'0','1'}
+@attribute at  {'0','1'}
+@attribute attack  {'0','1'}
+@attribute attempted  {'0','1'}
+@attribute attempts  {'0','1'}
+@attribute attend  {'0','1'}
+@attribute attended  {'0','1'}
+@attribute attending  {'0','1'}
+@attribute attention  {'0','1'}
+@attribute attorney  {'0','1'}
+@attribute attracted  {'0','1'}
+@attribute audio  {'0','1'}
+@attribute authored  {'0','1'}
+@attribute authority  {'0','1'}
+@attribute autobiography  {'0','1'}
+@attribute availability  {'0','1'}
+@attribute available  {'0','1'}
+@attribute award  {'0','1'}
+@attribute awarded  {'0','1'}
+@attribute axe  {'0','1'}
+@attribute bachelor  {'0','1'}
+@attribute back  {'0','1'}
+@attribute badges  {'0','1'}
+@attribute ballad  {'0','1'}
+@attribute band  {'0','1'}
+@attribute baptised  {'0','1'}
+@attribute baptizing  {'0','1'}
+@attribute bar  {'0','1'}
+@attribute barons  {'0','1'}
+@attribute barrister  {'0','1'}
+@attribute baseball  {'0','1'}
+@attribute based  {'0','1'}
+@attribute baseman  {'0','1'}
+@attribute bassist  {'0','1'}
+@attribute batboy  {'0','1'}
+@attribute batter  {'0','1'}
+@attribute batters  {'0','1'}
+@attribute battery  {'0','1'}
+@attribute batting  {'0','1'}
+@attribute bayou  {'0','1'}
+@attribute be  {'0','1'}
+@attribute beat  {'0','1'}
+@attribute became  {'0','1'}
+@attribute because  {'0','1'}
+@attribute become  {'0','1'}
+@attribute becomes  {'0','1'}
+@attribute becoming  {'0','1'}
+@attribute been  {'0','1'}
+@attribute beep  {'0','1'}
+@attribute before  {'0','1'}
+@attribute began  {'0','1'}
+@attribute begin  {'0','1'}
+@attribute beginning  {'0','1'}
+@attribute being  {'0','1'}
+@attribute beloved  {'0','1'}
+@attribute benched  {'0','1'}
+@attribute benefices  {'0','1'}
+@attribute beside  {'0','1'}
+@attribute best  {'0','1'}
+@attribute bested  {'0','1'}
+@attribute better  {'0','1'}
+@attribute between  {'0','1'}
+@attribute big  {'0','1'}
+@attribute birth  {'0','1'}
+@attribute birthday  {'0','1'}
+@attribute bishop  {'0','1'}
+@attribute bishops  {'0','1'}
+@attribute bizarre  {'0','1'}
+@attribute black  {'0','1'}
+@attribute blade  {'0','1'}
+@attribute block  {'0','1'}
+@attribute board  {'0','1'}
+@attribute boarded  {'0','1'}
+@attribute boards  {'0','1'}
+@attribute body  {'0','1'}
+@attribute bones  {'0','1'}
+@attribute book  {'0','1'}
+@attribute books  {'0','1'}
+@attribute border  {'0','1'}
+@attribute born  {'0','1'}
+@attribute both  {'0','1'}
+@attribute bought  {'0','1'}
+@attribute bouncer  {'0','1'}
+@attribute boutique  {'0','1'}
+@attribute bowed  {'0','1'}
+@attribute box  {'0','1'}
+@attribute boy  {'0','1'}
+@attribute brain  {'0','1'}
+@attribute brand  {'0','1'}
+@attribute bravery  {'0','1'}
+@attribute brawl  {'0','1'}
+@attribute break  {'0','1'}
+@attribute breaking  {'0','1'}
+@attribute brief  {'0','1'}
+@attribute briefly  {'0','1'}
+@attribute brilliantly  {'0','1'}
+@attribute broadcast  {'0','1'}
+@attribute broadcaster  {'0','1'}
+@attribute broke  {'0','1'}
+@attribute brother  {'0','1'}
+@attribute brothers  {'0','1'}
+@attribute brought  {'0','1'}
+@attribute brush  {'0','1'}
+@attribute brutal  {'0','1'}
+@attribute budget  {'0','1'}
+@attribute built  {'0','1'}
+@attribute buried  {'0','1'}
+@attribute business  {'0','1'}
+@attribute businessman  {'0','1'}
+@attribute but  {'0','1'}
+@attribute by  {'0','1'}
+@attribute cable  {'0','1'}
+@attribute called  {'0','1'}
+@attribute came  {'0','1'}
+@attribute cameraman  {'0','1'}
+@attribute campaign  {'0','1'}
+@attribute campaigned  {'0','1'}
+@attribute campaigning  {'0','1'}
+@attribute camped  {'0','1'}
+@attribute can  {'0','1'}
+@attribute canal  {'0','1'}
+@attribute cancer  {'0','1'}
+@attribute candidacy  {'0','1'}
+@attribute candidate  {'0','1'}
+@attribute canonized  {'0','1'}
+@attribute cap  {'0','1'}
+@attribute capable  {'0','1'}
+@attribute capital  {'0','1'}
+@attribute caps  {'0','1'}
+@attribute captain  {'0','1'}
+@attribute captained  {'0','1'}
+@attribute captors  {'0','1'}
+@attribute captured  {'0','1'}
+@attribute car  {'0','1'}
+@attribute cardinal  {'0','1'}
+@attribute career  {'0','1'}
+@attribute carried  {'0','1'}
+@attribute cartoon  {'0','1'}
+@attribute casting  {'0','1'}
+@attribute casualties  {'0','1'}
+@attribute catalogue  {'0','1'}
+@attribute catalyst  {'0','1'}
+@attribute cathedral  {'0','1'}
+@attribute caucus  {'0','1'}
+@attribute caught  {'0','1'}
+@attribute cavalry  {'0','1'}
+@attribute celebrated  {'0','1'}
+@attribute cemetery  {'0','1'}
+@attribute center  {'0','1'}
+@attribute central  {'0','1'}
+@attribute century  {'0','1'}
+@attribute ceremonial  {'0','1'}
+@attribute ceremony  {'0','1'}
+@attribute chafed  {'0','1'}
+@attribute chairman  {'0','1'}
+@attribute challenger  {'0','1'}
+@attribute challengers  {'0','1'}
+@attribute chambers  {'0','1'}
+@attribute champion  {'0','1'}
+@attribute championship  {'0','1'}
+@attribute championships  {'0','1'}
+@attribute chance  {'0','1'}
+@attribute chancellor  {'0','1'}
+@attribute chances  {'0','1'}
+@attribute channel  {'0','1'}
+@attribute character  {'0','1'}
+@attribute charges  {'0','1'}
+@attribute chart  {'0','1'}
+@attribute charts  {'0','1'}
+@attribute chief  {'0','1'}
+@attribute child  {'0','1'}
+@attribute children  {'0','1'}
+@attribute choice  {'0','1'}
+@attribute chooses  {'0','1'}
+@attribute choreographer  {'0','1'}
+@attribute chose  {'0','1'}
+@attribute chosen  {'0','1'}
+@attribute church  {'0','1'}
+@attribute circa  {'0','1'}
+@attribute circle  {'0','1'}
+@attribute circuit  {'0','1'}
+@attribute cities  {'0','1'}
+@attribute citizenship  {'0','1'}
+@attribute city  {'0','1'}
+@attribute civil  {'0','1'}
+@attribute civilian  {'0','1'}
+@attribute claim  {'0','1'}
+@attribute claimed  {'0','1'}
+@attribute class  {'0','1'}
+@attribute cleaner  {'0','1'}
+@attribute clear  {'0','1'}
+@attribute clerical  {'0','1'}
+@attribute clerk  {'0','1'}
+@attribute clerks  {'0','1'}
+@attribute close  {'0','1'}
+@attribute closed  {'0','1'}
+@attribute clowning  {'0','1'}
+@attribute club  {'0','1'}
+@attribute clubs  {'0','1'}
+@attribute co  {'0','1'}
+@attribute coach  {'0','1'}
+@attribute coaching  {'0','1'}
+@attribute code  {'0','1'}
+@attribute coining  {'0','1'}
+@attribute collar  {'0','1'}
+@attribute colleague  {'0','1'}
+@attribute collected  {'0','1'}
+@attribute collection  {'0','1'}
+@attribute collectively  {'0','1'}
+@attribute college  {'0','1'}
+@attribute colleges  {'0','1'}
+@attribute collegiate  {'0','1'}
+@attribute colony  {'0','1'}
+@attribute com  {'0','1'}
+@attribute combat  {'0','1'}
+@attribute come  {'0','1'}
+@attribute comedies  {'0','1'}
+@attribute comedy  {'0','1'}
+@attribute comes  {'0','1'}
+@attribute command  {'0','1'}
+@attribute commander  {'0','1'}
+@attribute commanding  {'0','1'}
+@attribute commemorated  {'0','1'}
+@attribute commemoration  {'0','1'}
+@attribute commentate  {'0','1'}
+@attribute commentator  {'0','1'}
+@attribute comments  {'0','1'}
+@attribute commercial  {'0','1'}
+@attribute commissioned  {'0','1'}
+@attribute commissioner  {'0','1'}
+@attribute committee  {'0','1'}
+@attribute communicated  {'0','1'}
+@attribute companies  {'0','1'}
+@attribute company  {'0','1'}
+@attribute comparison  {'0','1'}
+@attribute compensation  {'0','1'}
+@attribute compete  {'0','1'}
+@attribute competing  {'0','1'}
+@attribute composition  {'0','1'}
+@attribute concede  {'0','1'}
+@attribute concert  {'0','1'}
+@attribute condemned  {'0','1'}
+@attribute conferred  {'0','1'}
+@attribute confirmable  {'0','1'}
+@attribute conflict  {'0','1'}
+@attribute conflicts  {'0','1'}
+@attribute confrontation  {'0','1'}
+@attribute confused  {'0','1'}
+@attribute connects  {'0','1'}
+@attribute conquest  {'0','1'}
+@attribute conquests  {'0','1'}
+@attribute conquistador  {'0','1'}
+@attribute conquistas  {'0','1'}
+@attribute consecutive  {'0','1'}
+@attribute considerable  {'0','1'}
+@attribute considered  {'0','1'}
+@attribute consistory  {'0','1'}
+@attribute consiting  {'0','1'}
+@attribute consort  {'0','1'}
+@attribute constant  {'0','1'}
+@attribute construction  {'0','1'}
+@attribute contemporary  {'0','1'}
+@attribute contestant  {'0','1'}
+@attribute continued  {'0','1'}
+@attribute continues  {'0','1'}
+@attribute contract  {'0','1'}
+@attribute controls  {'0','1'}
+@attribute converted  {'0','1'}
+@attribute coordinator  {'0','1'}
+@attribute copier  {'0','1'}
+@attribute copies  {'0','1'}
+@attribute copyright  {'0','1'}
+@attribute corner  {'0','1'}
+@attribute corners  {'0','1'}
+@attribute corps  {'0','1'}
+@attribute costumes  {'0','1'}
+@attribute couch  {'0','1'}
+@attribute could  {'0','1'}
+@attribute council  {'0','1'}
+@attribute councilman  {'0','1'}
+@attribute country  {'0','1'}
+@attribute county  {'0','1'}
+@attribute couple  {'0','1'}
+@attribute course  {'0','1'}
+@attribute court  {'0','1'}
+@attribute cover  {'0','1'}
+@attribute coverage  {'0','1'}
+@attribute covered  {'0','1'}
+@attribute covert  {'0','1'}
+@attribute craftsmen  {'0','1'}
+@attribute crater  {'0','1'}
+@attribute crazy  {'0','1'}
+@attribute created  {'0','1'}
+@attribute creative  {'0','1'}
+@attribute creativity  {'0','1'}
+@attribute credited  {'0','1'}
+@attribute credits  {'0','1'}
+@attribute cricket  {'0','1'}
+@attribute cricketer  {'0','1'}
+@attribute crime  {'0','1'}
+@attribute crimes  {'0','1'}
+@attribute critical  {'0','1'}
+@attribute criticism  {'0','1'}
+@attribute criticize  {'0','1'}
+@attribute criticized  {'0','1'}
+@attribute critics  {'0','1'}
+@attribute crowned  {'0','1'}
+@attribute cruciate  {'0','1'}
+@attribute culminated  {'0','1'}
+@attribute current  {'0','1'}
+@attribute currently  {'0','1'}
+@attribute cut  {'0','1'}
+@attribute da  {'0','1'}
+@attribute dailies  {'0','1'}
+@attribute dake  {'0','1'}
+@attribute dance  {'0','1'}
+@attribute dancing  {'0','1'}
+@attribute dane  {'0','1'}
+@attribute dated  {'0','1'}
+@attribute dating  {'0','1'}
+@attribute daughter  {'0','1'}
+@attribute daughters  {'0','1'}
+@attribute day  {'0','1'}
+@attribute days  {'0','1'}
+@attribute de  {'0','1'}
+@attribute deal  {'0','1'}
+@attribute death  {'0','1'}
+@attribute debates  {'0','1'}
+@attribute debut  {'0','1'}
+@attribute debuted  {'0','1'}
+@attribute decade  {'0','1'}
+@attribute decided  {'0','1'}
+@attribute decision  {'0','1'}
+@attribute decisive  {'0','1'}
+@attribute decline  {'0','1'}
+@attribute decrees  {'0','1'}
+@attribute dedicated  {'0','1'}
+@attribute defeat  {'0','1'}
+@attribute defeated  {'0','1'}
+@attribute defeats  {'0','1'}
+@attribute defend  {'0','1'}
+@attribute defended  {'0','1'}
+@attribute defender  {'0','1'}
+@attribute defensive  {'0','1'}
+@attribute degree  {'0','1'}
+@attribute degrees  {'0','1'}
+@attribute delivered  {'0','1'}
+@attribute delivery  {'0','1'}
+@attribute della  {'0','1'}
+@attribute demand  {'0','1'}
+@attribute demanding  {'0','1'}
+@attribute department  {'0','1'}
+@attribute depicted  {'0','1'}
+@attribute deputy  {'0','1'}
+@attribute der  {'0','1'}
+@attribute derided  {'0','1'}
+@attribute dermanlands  {'0','1'}
+@attribute dert  {'0','1'}
+@attribute described  {'0','1'}
+@attribute designer  {'0','1'}
+@attribute desk  {'0','1'}
+@attribute detachment  {'0','1'}
+@attribute developed  {'0','1'}
+@attribute development  {'0','1'}
+@attribute di  {'0','1'}
+@attribute dialogue  {'0','1'}
+@attribute did  {'0','1'}
+@attribute died  {'0','1'}
+@attribute difference  {'0','1'}
+@attribute different  {'0','1'}
+@attribute difficult  {'0','1'}
+@attribute din  {'0','1'}
+@attribute direct  {'0','1'}
+@attribute directed  {'0','1'}
+@attribute directly  {'0','1'}
+@attribute director  {'0','1'}
+@attribute directors  {'0','1'}
+@attribute disclosed  {'0','1'}
+@attribute discontent  {'0','1'}
+@attribute disguised  {'0','1'}
+@attribute dismissed  {'0','1'}
+@attribute disorder  {'0','1'}
+@attribute distinguished  {'0','1'}
+@attribute distributed  {'0','1'}
+@attribute district  {'0','1'}
+@attribute divided  {'0','1'}
+@attribute divisions  {'0','1'}
+@attribute divorce  {'0','1'}
+@attribute divorced  {'0','1'}
+@attribute doctorate  {'0','1'}
+@attribute documentaries  {'0','1'}
+@attribute documentary  {'0','1'}
+@attribute documented  {'0','1'}
+@attribute doesn  {'0','1'}
+@attribute domain  {'0','1'}
+@attribute domestic  {'0','1'}
+@attribute donated  {'0','1'}
+@attribute doubles  {'0','1'}
+@attribute doubted  {'0','1'}
+@attribute down  {'0','1'}
+@attribute downing  {'0','1'}
+@attribute drafted  {'0','1'}
+@attribute drama  {'0','1'}
+@attribute dramatic  {'0','1'}
+@attribute draw  {'0','1'}
+@attribute driver  {'0','1'}
+@attribute driving  {'0','1'}
+@attribute drummer  {'0','1'}
+@attribute drums  {'0','1'}
+@attribute dual  {'0','1'}
+@attribute due  {'0','1'}
+@attribute duly  {'0','1'}
+@attribute during  {'0','1'}
+@attribute dying  {'0','1'}
+@attribute dyslexia  {'0','1'}
+@attribute eBay  {'0','1'}
+@attribute each  {'0','1'}
+@attribute early  {'0','1'}
+@attribute earned  {'0','1'}
+@attribute earning  {'0','1'}
+@attribute eating  {'0','1'}
+@attribute economic  {'0','1'}
+@attribute economics  {'0','1'}
+@attribute editor  {'0','1'}
+@attribute education  {'0','1'}
+@attribute effectively  {'0','1'}
+@attribute eighth  {'0','1'}
+@attribute either  {'0','1'}
+@attribute elaborate  {'0','1'}
+@attribute eldest  {'0','1'}
+@attribute elected  {'0','1'}
+@attribute election  {'0','1'}
+@attribute elements  {'0','1'}
+@attribute eleven  {'0','1'}
+@attribute eleventh  {'0','1'}
+@attribute eligible  {'0','1'}
+@attribute embedded  {'0','1'}
+@attribute embroiled  {'0','1'}
+@attribute emigrated  {'0','1'}
+@attribute eminent  {'0','1'}
+@attribute employed  {'0','1'}
+@attribute end  {'0','1'}
+@attribute ended  {'0','1'}
+@attribute endorsements  {'0','1'}
+@attribute enemy  {'0','1'}
+@attribute energy  {'0','1'}
+@attribute engagement  {'0','1'}
+@attribute engineer  {'0','1'}
+@attribute enjoyed  {'0','1'}
+@attribute enjoys  {'0','1'}
+@attribute enough  {'0','1'}
+@attribute ensign  {'0','1'}
+@attribute entered  {'0','1'}
+@attribute enthroned  {'0','1'}
+@attribute entry  {'0','1'}
+@attribute environment  {'0','1'}
+@attribute episode  {'0','1'}
+@attribute episodes  {'0','1'}
+@attribute equipment  {'0','1'}
+@attribute era  {'0','1'}
+@attribute erupted  {'0','1'}
+@attribute escape  {'0','1'}
+@attribute escort  {'0','1'}
+@attribute esophagus  {'0','1'}
+@attribute essentially  {'0','1'}
+@attribute established  {'0','1'}
+@attribute establishing  {'0','1'}
+@attribute establishment  {'0','1'}
+@attribute estate  {'0','1'}
+@attribute estranged  {'0','1'}
+@attribute eulogy  {'0','1'}
+@attribute evangelized  {'0','1'}
+@attribute evened  {'0','1'}
+@attribute evening  {'0','1'}
+@attribute event  {'0','1'}
+@attribute eventually  {'0','1'}
+@attribute ever  {'0','1'}
+@attribute every  {'0','1'}
+@attribute ex  {'0','1'}
+@attribute excellents  {'0','1'}
+@attribute excommunicated  {'0','1'}
+@attribute excuse  {'0','1'}
+@attribute executed  {'0','1'}
+@attribute executive  {'0','1'}
+@attribute exercise  {'0','1'}
+@attribute exhibition  {'0','1'}
+@attribute exhibitions  {'0','1'}
+@attribute exit  {'0','1'}
+@attribute expatriate  {'0','1'}
+@attribute expedicion  {'0','1'}
+@attribute expedition  {'0','1'}
+@attribute experience  {'0','1'}
+@attribute experiential  {'0','1'}
+@attribute expert  {'0','1'}
+@attribute explicit  {'0','1'}
+@attribute exported  {'0','1'}
+@attribute exporting  {'0','1'}
+@attribute exposed  {'0','1'}
+@attribute expressing  {'0','1'}
+@attribute ez  {'0','1'}
+@attribute faced  {'0','1'}
+@attribute facility  {'0','1'}
+@attribute faculty  {'0','1'}
+@attribute failure  {'0','1'}
+@attribute fair  {'0','1'}
+@attribute fait  {'0','1'}
+@attribute fall  {'0','1'}
+@attribute falling  {'0','1'}
+@attribute family  {'0','1'}
+@attribute famous  {'0','1'}
+@attribute famously  {'0','1'}
+@attribute fanatic  {'0','1'}
+@attribute fans  {'0','1'}
+@attribute far  {'0','1'}
+@attribute fared  {'0','1'}
+@attribute farm  {'0','1'}
+@attribute farming  {'0','1'}
+@attribute fascist  {'0','1'}
+@attribute fashion  {'0','1'}
+@attribute father  {'0','1'}
+@attribute feast  {'0','1'}
+@attribute featured  {'0','1'}
+@attribute features  {'0','1'}
+@attribute federation  {'0','1'}
+@attribute feet  {'0','1'}
+@attribute fellow  {'0','1'}
+@attribute felony  {'0','1'}
+@attribute felt  {'0','1'}
+@attribute female  {'0','1'}
+@attribute ferry  {'0','1'}
+@attribute few  {'0','1'}
+@attribute fiction  {'0','1'}
+@attribute field  {'0','1'}
+@attribute fielder  {'0','1'}
+@attribute fifth  {'0','1'}
+@attribute fifty  {'0','1'}
+@attribute fight  {'0','1'}
+@attribute fighting  {'0','1'}
+@attribute fights  {'0','1'}
+@attribute figure  {'0','1'}
+@attribute film  {'0','1'}
+@attribute filmed  {'0','1'}
+@attribute films  {'0','1'}
+@attribute final  {'0','1'}
+@attribute finale  {'0','1'}
+@attribute finally  {'0','1'}
+@attribute finals  {'0','1'}
+@attribute financial  {'0','1'}
+@attribute finished  {'0','1'}
+@attribute finisher  {'0','1'}
+@attribute fire  {'0','1'}
+@attribute fired  {'0','1'}
+@attribute firing  {'0','1'}
+@attribute firm  {'0','1'}
+@attribute first  {'0','1'}
+@attribute fitness  {'0','1'}
+@attribute five  {'0','1'}
+@attribute flagship  {'0','1'}
+@attribute fleet  {'0','1'}
+@attribute flight  {'0','1'}
+@attribute focus  {'0','1'}
+@attribute follow  {'0','1'}
+@attribute followed  {'0','1'}
+@attribute following  {'0','1'}
+@attribute follows  {'0','1'}
+@attribute food  {'0','1'}
+@attribute football  {'0','1'}
+@attribute footballer  {'0','1'}
+@attribute for  {'0','1'}
+@attribute forced  {'0','1'}
+@attribute forces  {'0','1'}
+@attribute foregoing  {'0','1'}
+@attribute form  {'0','1'}
+@attribute formed  {'0','1'}
+@attribute former  {'0','1'}
+@attribute formerly  {'0','1'}
+@attribute forum  {'0','1'}
+@attribute fought  {'0','1'}
+@attribute found  {'0','1'}
+@attribute founded  {'0','1'}
+@attribute founder  {'0','1'}
+@attribute four  {'0','1'}
+@attribute fourteen  {'0','1'}
+@attribute fourth  {'0','1'}
+@attribute fran  {'0','1'}
+@attribute franchise  {'0','1'}
+@attribute frat  {'0','1'}
+@attribute free  {'0','1'}
+@attribute freed  {'0','1'}
+@attribute friend  {'0','1'}
+@attribute friendly  {'0','1'}
+@attribute from  {'0','1'}
+@attribute front  {'0','1'}
+@attribute fruitful  {'0','1'}
+@attribute full  {'0','1'}
+@attribute fun  {'0','1'}
+@attribute funeral  {'0','1'}
+@attribute further  {'0','1'}
+@attribute gained  {'0','1'}
+@attribute game  {'0','1'}
+@attribute games  {'0','1'}
+@attribute gave  {'0','1'}
+@attribute general  {'0','1'}
+@attribute genius  {'0','1'}
+@attribute get  {'0','1'}
+@attribute gigs  {'0','1'}
+@attribute girl  {'0','1'}
+@attribute girlfriends  {'0','1'}
+@attribute given  {'0','1'}
+@attribute giving  {'0','1'}
+@attribute go  {'0','1'}
+@attribute goal  {'0','1'}
+@attribute goals  {'0','1'}
+@attribute going  {'0','1'}
+@attribute gold  {'0','1'}
+@attribute good  {'0','1'}
+@attribute goodwill  {'0','1'}
+@attribute got  {'0','1'}
+@attribute governed  {'0','1'}
+@attribute government  {'0','1'}
+@attribute governor  {'0','1'}
+@attribute graduate  {'0','1'}
+@attribute graduated  {'0','1'}
+@attribute graduating  {'0','1'}
+@attribute grandfather  {'0','1'}
+@attribute granted  {'0','1'}
+@attribute great  {'0','1'}
+@attribute grew  {'0','1'}
+@attribute group  {'0','1'}
+@attribute groups  {'0','1'}
+@attribute growing  {'0','1'}
+@attribute grown  {'0','1'}
+@attribute guest  {'0','1'}
+@attribute guez  {'0','1'}
+@attribute guilty  {'0','1'}
+@attribute guitar  {'0','1'}
+@attribute had  {'0','1'}
+@attribute haemorrhage  {'0','1'}
+@attribute hard  {'0','1'}
+@attribute has  {'0','1'}
+@attribute have  {'0','1'}
+@attribute having  {'0','1'}
+@attribute he  {'0','1'}
+@attribute head  {'0','1'}
+@attribute headed  {'0','1'}
+@attribute headlines  {'0','1'}
+@attribute healing  {'0','1'}
+@attribute heard  {'0','1'}
+@attribute heart  {'0','1'}
+@attribute heavy  {'0','1'}
+@attribute held  {'0','1'}
+@attribute help  {'0','1'}
+@attribute her  {'0','1'}
+@attribute here  {'0','1'}
+@attribute heresy  {'0','1'}
+@attribute hero  {'0','1'}
+@attribute herself  {'0','1'}
+@attribute high  {'0','1'}
+@attribute highest  {'0','1'}
+@attribute highly  {'0','1'}
+@attribute him  {'0','1'}
+@attribute himself  {'0','1'}
+@attribute hired  {'0','1'}
+@attribute his  {'0','1'}
+@attribute historian  {'0','1'}
+@attribute historic  {'0','1'}
+@attribute historiographer  {'0','1'}
+@attribute history  {'0','1'}
+@attribute hit  {'0','1'}
+@attribute hitmaking  {'0','1'}
+@attribute hits  {'0','1'}
+@attribute hitting  {'0','1'}
+@attribute hockey  {'0','1'}
+@attribute holder  {'0','1'}
+@attribute holding  {'0','1'}
+@attribute holds  {'0','1'}
+@attribute holidays  {'0','1'}
+@attribute holy  {'0','1'}
+@attribute homage  {'0','1'}
+@attribute home  {'0','1'}
+@attribute homes  {'0','1'}
+@attribute hometown  {'0','1'}
+@attribute honor  {'0','1'}
+@attribute honorary  {'0','1'}
+@attribute horror  {'0','1'}
+@attribute hospital  {'0','1'}
+@attribute hospitals  {'0','1'}
+@attribute host  {'0','1'}
+@attribute hostages  {'0','1'}
+@attribute hosted  {'0','1'}
+@attribute hosts  {'0','1'}
+@attribute hottest  {'0','1'}
+@attribute however  {'0','1'}
+@attribute huge  {'0','1'}
+@attribute hunting  {'0','1'}
+@attribute husband  {'0','1'}
+@attribute ice  {'0','1'}
+@attribute idea  {'0','1'}
+@attribute if  {'0','1'}
+@attribute ignore  {'0','1'}
+@attribute imagine  {'0','1'}
+@attribute imaging  {'0','1'}
+@attribute immediate  {'0','1'}
+@attribute immediately  {'0','1'}
+@attribute immigrated  {'0','1'}
+@attribute impact  {'0','1'}
+@attribute impacted  {'0','1'}
+@attribute imperial  {'0','1'}
+@attribute imprisonment  {'0','1'}
+@attribute improvement  {'0','1'}
+@attribute in  {'0','1'}
+@attribute inability  {'0','1'}
+@attribute inaction  {'0','1'}
+@attribute inch  {'0','1'}
+@attribute incident  {'0','1'}
+@attribute incidents  {'0','1'}
+@attribute include  {'0','1'}
+@attribute included  {'0','1'}
+@attribute including  {'0','1'}
+@attribute includng  {'0','1'}
+@attribute incorporates  {'0','1'}
+@attribute incorporation  {'0','1'}
+@attribute independent  {'0','1'}
+@attribute independently  {'0','1'}
+@attribute indigenous  {'0','1'}
+@attribute inducted  {'0','1'}
+@attribute inexhaustible  {'0','1'}
+@attribute infantry  {'0','1'}
+@attribute influence  {'0','1'}
+@attribute influenced  {'0','1'}
+@attribute influential  {'0','1'}
+@attribute information  {'0','1'}
+@attribute initial  {'0','1'}
+@attribute initially  {'0','1'}
+@attribute initiated  {'0','1'}
+@attribute injuries  {'0','1'}
+@attribute injury  {'0','1'}
+@attribute injustices  {'0','1'}
+@attribute inner  {'0','1'}
+@attribute innings  {'0','1'}
+@attribute inspired  {'0','1'}
+@attribute installation  {'0','1'}
+@attribute installed  {'0','1'}
+@attribute instead  {'0','1'}
+@attribute institution  {'0','1'}
+@attribute instructor  {'0','1'}
+@attribute intelligence  {'0','1'}
+@attribute inter  {'0','1'}
+@attribute interested  {'0','1'}
+@attribute interests  {'0','1'}
+@attribute international  {'0','1'}
+@attribute internationally  {'0','1'}
+@attribute internship  {'0','1'}
+@attribute interred  {'0','1'}
+@attribute interview  {'0','1'}
+@attribute interviewed  {'0','1'}
+@attribute interviewing  {'0','1'}
+@attribute into  {'0','1'}
+@attribute introduced  {'0','1'}
+@attribute invasion  {'0','1'}
+@attribute investment  {'0','1'}
+@attribute invited  {'0','1'}
+@attribute involved  {'0','1'}
+@attribute ire  {'0','1'}
+@attribute is  {'0','1'}
+@attribute island  {'0','1'}
+@attribute islands  {'0','1'}
+@attribute islas  {'0','1'}
+@attribute isolated  {'0','1'}
+@attribute issues  {'0','1'}
+@attribute it  {'0','1'}
+@attribute its  {'0','1'}
+@attribute ja  {'0','1'}
+@attribute jazi  {'0','1'}
+@attribute jazz  {'0','1'}
+@attribute jimachi  {'0','1'}
+@attribute job  {'0','1'}
+@attribute jobs  {'0','1'}
+@attribute jogging  {'0','1'}
+@attribute join  {'0','1'}
+@attribute joine  {'0','1'}
+@attribute joined  {'0','1'}
+@attribute joining  {'0','1'}
+@attribute journalist  {'0','1'}
+@attribute juggling  {'0','1'}
+@attribute jungle  {'0','1'}
+@attribute junior  {'0','1'}
+@attribute just  {'0','1'}
+@attribute kaftans  {'0','1'}
+@attribute keep  {'0','1'}
+@attribute key  {'0','1'}
+@attribute kibbutz  {'0','1'}
+@attribute kick  {'0','1'}
+@attribute kill  {'0','1'}
+@attribute killed  {'0','1'}
+@attribute king  {'0','1'}
+@attribute know  {'0','1'}
+@attribute known  {'0','1'}
+@attribute ko  {'0','1'}
+@attribute la  {'0','1'}
+@attribute labourers  {'0','1'}
+@attribute landed  {'0','1'}
+@attribute landlords  {'0','1'}
+@attribute languishing  {'0','1'}
+@attribute large  {'0','1'}
+@attribute largely  {'0','1'}
+@attribute las  {'0','1'}
+@attribute last  {'0','1'}
+@attribute late  {'0','1'}
+@attribute later  {'0','1'}
+@attribute latest  {'0','1'}
+@attribute law  {'0','1'}
+@attribute lawyer  {'0','1'}
+@attribute le  {'0','1'}
+@attribute lead  {'0','1'}
+@attribute leader  {'0','1'}
+@attribute leaders  {'0','1'}
+@attribute leadership  {'0','1'}
+@attribute leading  {'0','1'}
+@attribute league  {'0','1'}
+@attribute leagues  {'0','1'}
+@attribute learned  {'0','1'}
+@attribute least  {'0','1'}
+@attribute leave  {'0','1'}
+@attribute lectured  {'0','1'}
+@attribute led  {'0','1'}
+@attribute left  {'0','1'}
+@attribute leg  {'0','1'}
+@attribute legend  {'0','1'}
+@attribute legendary  {'0','1'}
+@attribute legs  {'0','1'}
+@attribute leprosy  {'0','1'}
+@attribute lesbian  {'0','1'}
+@attribute less  {'0','1'}
+@attribute letter  {'0','1'}
+@attribute letters  {'0','1'}
+@attribute level  {'0','1'}
+@attribute liberal  {'0','1'}
+@attribute lieutenant  {'0','1'}
+@attribute life  {'0','1'}
+@attribute ligament  {'0','1'}
+@attribute light  {'0','1'}
+@attribute like  {'0','1'}
+@attribute limited  {'0','1'}
+@attribute line  {'0','1'}
+@attribute lines  {'0','1'}
+@attribute list  {'0','1'}
+@attribute literature  {'0','1'}
+@attribute live  {'0','1'}
+@attribute lived  {'0','1'}
+@attribute lives  {'0','1'}
+@attribute living  {'0','1'}
+@attribute lix  {'0','1'}
+@attribute lje  {'0','1'}
+@attribute loan  {'0','1'}
+@attribute local  {'0','1'}
+@attribute located  {'0','1'}
+@attribute long  {'0','1'}
+@attribute longest  {'0','1'}
+@attribute look  {'0','1'}
+@attribute looking  {'0','1'}
+@attribute losing  {'0','1'}
+@attribute lost  {'0','1'}
+@attribute lot  {'0','1'}
+@attribute love  {'0','1'}
+@attribute low  {'0','1'}
+@attribute loyal  {'0','1'}
+@attribute lvarez  {'0','1'}
+@attribute lying  {'0','1'}
+@attribute made  {'0','1'}
+@attribute magazine  {'0','1'}
+@attribute magician  {'0','1'}
+@attribute mainly  {'0','1'}
+@attribute mainstay  {'0','1'}
+@attribute maintained  {'0','1'}
+@attribute major  {'0','1'}
+@attribute majored  {'0','1'}
+@attribute majoring  {'0','1'}
+@attribute majority  {'0','1'}
+@attribute make  {'0','1'}
+@attribute makes  {'0','1'}
+@attribute male  {'0','1'}
+@attribute manager  {'0','1'}
+@attribute managing  {'0','1'}
+@attribute manner  {'0','1'}
+@attribute many  {'0','1'}
+@attribute marched  {'0','1'}
+@attribute marching  {'0','1'}
+@attribute marked  {'0','1'}
+@attribute market  {'0','1'}
+@attribute marriage  {'0','1'}
+@attribute married  {'0','1'}
+@attribute martyred  {'0','1'}
+@attribute massive  {'0','1'}
+@attribute master  {'0','1'}
+@attribute masterminded  {'0','1'}
+@attribute match  {'0','1'}
+@attribute maternal  {'0','1'}
+@attribute mates  {'0','1'}
+@attribute mathematics  {'0','1'}
+@attribute matters  {'0','1'}
+@attribute may  {'0','1'}
+@attribute mayor  {'0','1'}
+@attribute med  {'0','1'}
+@attribute medal  {'0','1'}
+@attribute media  {'0','1'}
+@attribute medieval  {'0','1'}
+@attribute meeting  {'0','1'}
+@attribute meetings  {'0','1'}
+@attribute member  {'0','1'}
+@attribute members  {'0','1'}
+@attribute membership  {'0','1'}
+@attribute memorable  {'0','1'}
+@attribute men  {'0','1'}
+@attribute met  {'0','1'}
+@attribute middle  {'0','1'}
+@attribute midfielder  {'0','1'}
+@attribute midnight  {'0','1'}
+@attribute miles  {'0','1'}
+@attribute military  {'0','1'}
+@attribute militia  {'0','1'}
+@attribute mills  {'0','1'}
+@attribute minister  {'0','1'}
+@attribute minor  {'0','1'}
+@attribute minute  {'0','1'}
+@attribute mis  {'0','1'}
+@attribute missing  {'0','1'}
+@attribute mission  {'0','1'}
+@attribute missionary  {'0','1'}
+@attribute missions  {'0','1'}
+@attribute mistakenly  {'0','1'}
+@attribute mistresses  {'0','1'}
+@attribute model  {'0','1'}
+@attribute modelled  {'0','1'}
+@attribute modern  {'0','1'}
+@attribute moment  {'0','1'}
+@attribute money  {'0','1'}
+@attribute months  {'0','1'}
+@attribute more  {'0','1'}
+@attribute morning  {'0','1'}
+@attribute morto  {'0','1'}
+@attribute most  {'0','1'}
+@attribute mostly  {'0','1'}
+@attribute mother  {'0','1'}
+@attribute mountain  {'0','1'}
+@attribute move  {'0','1'}
+@attribute moved  {'0','1'}
+@attribute movie  {'0','1'}
+@attribute moviegoers  {'0','1'}
+@attribute movies  {'0','1'}
+@attribute moving  {'0','1'}
+@attribute much  {'0','1'}
+@attribute museums  {'0','1'}
+@attribute music  {'0','1'}
+@attribute musical  {'0','1'}
+@attribute musician  {'0','1'}
+@attribute mysterious  {'0','1'}
+@attribute name  {'0','1'}
+@attribute named  {'0','1'}
+@attribute names  {'0','1'}
+@attribute narrated  {'0','1'}
+@attribute narrative  {'0','1'}
+@attribute national  {'0','1'}
+@attribute nations  {'0','1'}
+@attribute native  {'0','1'}
+@attribute natives  {'0','1'}
+@attribute ndez  {'0','1'}
+@attribute near  {'0','1'}
+@attribute nearby  {'0','1'}
+@attribute nearly  {'0','1'}
+@attribute needy  {'0','1'}
+@attribute nephew  {'0','1'}
+@attribute netted  {'0','1'}
+@attribute neurodevelopmental  {'0','1'}
+@attribute neurosis  {'0','1'}
+@attribute never  {'0','1'}
+@attribute new  {'0','1'}
+@attribute newly  {'0','1'}
+@attribute news  {'0','1'}
+@attribute newspapers  {'0','1'}
+@attribute next  {'0','1'}
+@attribute ng  {'0','1'}
+@attribute nh  {'0','1'}
+@attribute night  {'0','1'}
+@attribute nightclub  {'0','1'}
+@attribute no  {'0','1'}
+@attribute nomination  {'0','1'}
+@attribute north  {'0','1'}
+@attribute northern  {'0','1'}
+@attribute not  {'0','1'}
+@attribute notable  {'0','1'}
+@attribute note  {'0','1'}
+@attribute noted  {'0','1'}
+@attribute notice  {'0','1'}
+@attribute notoriety  {'0','1'}
+@attribute novel  {'0','1'}
+@attribute now  {'0','1'}
+@attribute nude  {'0','1'}
+@attribute number  {'0','1'}
+@attribute numerous  {'0','1'}
+@attribute nurse  {'0','1'}
+@attribute oan  {'0','1'}
+@attribute observatory  {'0','1'}
+@attribute observed  {'0','1'}
+@attribute obtained  {'0','1'}
+@attribute obvious  {'0','1'}
+@attribute occurred  {'0','1'}
+@attribute odd  {'0','1'}
+@attribute of  {'0','1'}
+@attribute off  {'0','1'}
+@attribute offer  {'0','1'}
+@attribute offered  {'0','1'}
+@attribute office  {'0','1'}
+@attribute officer  {'0','1'}
+@attribute officers  {'0','1'}
+@attribute offices  {'0','1'}
+@attribute often  {'0','1'}
+@attribute old  {'0','1'}
+@attribute older  {'0','1'}
+@attribute on  {'0','1'}
+@attribute onboard  {'0','1'}
+@attribute once  {'0','1'}
+@attribute one  {'0','1'}
+@attribute only  {'0','1'}
+@attribute onto  {'0','1'}
+@attribute opened  {'0','1'}
+@attribute openly  {'0','1'}
+@attribute opera  {'0','1'}
+@attribute operated  {'0','1'}
+@attribute operating  {'0','1'}
+@attribute operation  {'0','1'}
+@attribute operations  {'0','1'}
+@attribute opted  {'0','1'}
+@attribute optioned  {'0','1'}
+@attribute oq  {'0','1'}
+@attribute or  {'0','1'}
+@attribute orchestrated  {'0','1'}
+@attribute ordained  {'0','1'}
+@attribute order  {'0','1'}
+@attribute ordered  {'0','1'}
+@attribute organization  {'0','1'}
+@attribute organized  {'0','1'}
+@attribute origin  {'0','1'}
+@attribute ornithologist  {'0','1'}
+@attribute other  {'0','1'}
+@attribute others  {'0','1'}
+@attribute out  {'0','1'}
+@attribute outdoor  {'0','1'}
+@attribute outfield  {'0','1'}
+@attribute outside  {'0','1'}
+@attribute over  {'0','1'}
+@attribute overall  {'0','1'}
+@attribute overs  {'0','1'}
+@attribute oversaw  {'0','1'}
+@attribute oversee  {'0','1'}
+@attribute own  {'0','1'}
+@attribute owned  {'0','1'}
+@attribute owner  {'0','1'}
+@attribute owns  {'0','1'}
+@attribute paid  {'0','1'}
+@attribute paint  {'0','1'}
+@attribute painted  {'0','1'}
+@attribute paintings  {'0','1'}
+@attribute papal  {'0','1'}
+@attribute paper  {'0','1'}
+@attribute papers  {'0','1'}
+@attribute parachuted  {'0','1'}
+@attribute parliament  {'0','1'}
+@attribute part  {'0','1'}
+@attribute partially  {'0','1'}
+@attribute participant  {'0','1'}
+@attribute participated  {'0','1'}
+@attribute particularly  {'0','1'}
+@attribute partner  {'0','1'}
+@attribute partnered  {'0','1'}
+@attribute partnership  {'0','1'}
+@attribute party  {'0','1'}
+@attribute passed  {'0','1'}
+@attribute passport  {'0','1'}
+@attribute past  {'0','1'}
+@attribute pastor  {'0','1'}
+@attribute patron  {'0','1'}
+@attribute peacemakers  {'0','1'}
+@attribute peaked  {'0','1'}
+@attribute penalty  {'0','1'}
+@attribute people  {'0','1'}
+@attribute per  {'0','1'}
+@attribute percent  {'0','1'}
+@attribute perform  {'0','1'}
+@attribute performance  {'0','1'}
+@attribute period  {'0','1'}
+@attribute periods  {'0','1'}
+@attribute permanent  {'0','1'}
+@attribute personally  {'0','1'}
+@attribute philosophy  {'0','1'}
+@attribute photographs  {'0','1'}
+@attribute physician  {'0','1'}
+@attribute physicist  {'0','1'}
+@attribute physicists  {'0','1'}
+@attribute physics  {'0','1'}
+@attribute picked  {'0','1'}
+@attribute pilots  {'0','1'}
+@attribute pinch  {'0','1'}
+@attribute pinyin  {'0','1'}
+@attribute pioneer  {'0','1'}
+@attribute pitched  {'0','1'}
+@attribute pitcher  {'0','1'}
+@attribute pitching  {'0','1'}
+@attribute place  {'0','1'}
+@attribute plane  {'0','1'}
+@attribute planned  {'0','1'}
+@attribute planning  {'0','1'}
+@attribute plans  {'0','1'}
+@attribute play  {'0','1'}
+@attribute played  {'0','1'}
+@attribute player  {'0','1'}
+@attribute players  {'0','1'}
+@attribute playing  {'0','1'}
+@attribute playmaker  {'0','1'}
+@attribute plays  {'0','1'}
+@attribute pled  {'0','1'}
+@attribute pneumonia  {'0','1'}
+@attribute poet  {'0','1'}
+@attribute poetic  {'0','1'}
+@attribute point  {'0','1'}
+@attribute police  {'0','1'}
+@attribute policy  {'0','1'}
+@attribute political  {'0','1'}
+@attribute politician  {'0','1'}
+@attribute politics  {'0','1'}
+@attribute poor  {'0','1'}
+@attribute pop  {'0','1'}
+@attribute pope  {'0','1'}
+@attribute popular  {'0','1'}
+@attribute port  {'0','1'}
+@attribute portrayal  {'0','1'}
+@attribute portraying  {'0','1'}
+@attribute position  {'0','1'}
+@attribute positions  {'0','1'}
+@attribute post  {'0','1'}
+@attribute postman  {'0','1'}
+@attribute postseason  {'0','1'}
+@attribute potential  {'0','1'}
+@attribute pounds  {'0','1'}
+@attribute power  {'0','1'}
+@attribute powers  {'0','1'}
+@attribute practiced  {'0','1'}
+@attribute practised  {'0','1'}
+@attribute prayers  {'0','1'}
+@attribute praying  {'0','1'}
+@attribute pre  {'0','1'}
+@attribute preacher  {'0','1'}
+@attribute preaching  {'0','1'}
+@attribute preeminence  {'0','1'}
+@attribute premier  {'0','1'}
+@attribute premiere  {'0','1'}
+@attribute premiered  {'0','1'}
+@attribute prep  {'0','1'}
+@attribute preselection  {'0','1'}
+@attribute present  {'0','1'}
+@attribute presentation  {'0','1'}
+@attribute presented  {'0','1'}
+@attribute presided  {'0','1'}
+@attribute president  {'0','1'}
+@attribute presidential  {'0','1'}
+@attribute press  {'0','1'}
+@attribute pretty  {'0','1'}
+@attribute previous  {'0','1'}
+@attribute previously  {'0','1'}
+@attribute pride  {'0','1'}
+@attribute priest  {'0','1'}
+@attribute prime  {'0','1'}
+@attribute princess  {'0','1'}
+@attribute printed  {'0','1'}
+@attribute priority  {'0','1'}
+@attribute prisoner  {'0','1'}
+@attribute prisoners  {'0','1'}
+@attribute private  {'0','1'}
+@attribute prize  {'0','1'}
+@attribute pro  {'0','1'}
+@attribute probably  {'0','1'}
+@attribute problem  {'0','1'}
+@attribute proclaimed  {'0','1'}
+@attribute produced  {'0','1'}
+@attribute producer  {'0','1'}
+@attribute produces  {'0','1'}
+@attribute producing  {'0','1'}
+@attribute production  {'0','1'}
+@attribute products  {'0','1'}
+@attribute professional  {'0','1'}
+@attribute professionally  {'0','1'}
+@attribute professor  {'0','1'}
+@attribute programme  {'0','1'}
+@attribute programmes  {'0','1'}
+@attribute programs  {'0','1'}
+@attribute progresos  {'0','1'}
+@attribute progress  {'0','1'}
+@attribute progressively  {'0','1'}
+@attribute projects  {'0','1'}
+@attribute prominence  {'0','1'}
+@attribute prominent  {'0','1'}
+@attribute prominently  {'0','1'}
+@attribute promise  {'0','1'}
+@attribute promoted  {'0','1'}
+@attribute promotion  {'0','1'}
+@attribute pronounced  {'0','1'}
+@attribute proposed  {'0','1'}
+@attribute protect  {'0','1'}
+@attribute protector  {'0','1'}
+@attribute protest  {'0','1'}
+@attribute prototypes  {'0','1'}
+@attribute proved  {'0','1'}
+@attribute provided  {'0','1'}
+@attribute provides  {'0','1'}
+@attribute psychoanalytic  {'0','1'}
+@attribute psychologist  {'0','1'}
+@attribute psychotherapy  {'0','1'}
+@attribute public  {'0','1'}
+@attribute publicly  {'0','1'}
+@attribute published  {'0','1'}
+@attribute pulp  {'0','1'}
+@attribute punk  {'0','1'}
+@attribute purchased  {'0','1'}
+@attribute pursuit  {'0','1'}
+@attribute qualify  {'0','1'}
+@attribute quarrelled  {'0','1'}
+@attribute quarrels  {'0','1'}
+@attribute quarter  {'0','1'}
+@attribute question  {'0','1'}
+@attribute quick  {'0','1'}
+@attribute quicker  {'0','1'}
+@attribute quietly  {'0','1'}
+@attribute racing  {'0','1'}
+@attribute radio  {'0','1'}
+@attribute railroad  {'0','1'}
+@attribute raise  {'0','1'}
+@attribute ran  {'0','1'}
+@attribute ranch  {'0','1'}
+@attribute range  {'0','1'}
+@attribute rank  {'0','1'}
+@attribute rdoba  {'0','1'}
+@attribute re  {'0','1'}
+@attribute reached  {'0','1'}
+@attribute reaffirmed  {'0','1'}
+@attribute real  {'0','1'}
+@attribute realist  {'0','1'}
+@attribute reality  {'0','1'}
+@attribute really  {'0','1'}
+@attribute rear  {'0','1'}
+@attribute reassigned  {'0','1'}
+@attribute recalled  {'0','1'}
+@attribute recalls  {'0','1'}
+@attribute receive  {'0','1'}
+@attribute received  {'0','1'}
+@attribute receiving  {'0','1'}
+@attribute recent  {'0','1'}
+@attribute recently  {'0','1'}
+@attribute recipient  {'0','1'}
+@attribute recognized  {'0','1'}
+@attribute recommendations  {'0','1'}
+@attribute reconciled  {'0','1'}
+@attribute record  {'0','1'}
+@attribute recorded  {'0','1'}
+@attribute recording  {'0','1'}
+@attribute red  {'0','1'}
+@attribute reelected  {'0','1'}
+@attribute reentered  {'0','1'}
+@attribute reference  {'0','1'}
+@attribute reformatory  {'0','1'}
+@attribute reforms  {'0','1'}
+@attribute regained  {'0','1'}
+@attribute regarding  {'0','1'}
+@attribute region  {'0','1'}
+@attribute regular  {'0','1'}
+@attribute rehabilitated  {'0','1'}
+@attribute rehearsal  {'0','1'}
+@attribute reigning  {'0','1'}
+@attribute rejoined  {'0','1'}
+@attribute relating  {'0','1'}
+@attribute relational  {'0','1'}
+@attribute relationship  {'0','1'}
+@attribute release  {'0','1'}
+@attribute released  {'0','1'}
+@attribute relics  {'0','1'}
+@attribute relocated  {'0','1'}
+@attribute remained  {'0','1'}
+@attribute remaining  {'0','1'}
+@attribute renamed  {'0','1'}
+@attribute renowned  {'0','1'}
+@attribute replace  {'0','1'}
+@attribute replacement  {'0','1'}
+@attribute report  {'0','1'}
+@attribute reported  {'0','1'}
+@attribute reporter  {'0','1'}
+@attribute represented  {'0','1'}
+@attribute represents  {'0','1'}
+@attribute reputation  {'0','1'}
+@attribute request  {'0','1'}
+@attribute required  {'0','1'}
+@attribute rescue  {'0','1'}
+@attribute researcher  {'0','1'}
+@attribute reserves  {'0','1'}
+@attribute reside  {'0','1'}
+@attribute residents  {'0','1'}
+@attribute resides  {'0','1'}
+@attribute residing  {'0','1'}
+@attribute resign  {'0','1'}
+@attribute resigned  {'0','1'}
+@attribute resources  {'0','1'}
+@attribute respectively  {'0','1'}
+@attribute responsible  {'0','1'}
+@attribute restored  {'0','1'}
+@attribute result  {'0','1'}
+@attribute resulted  {'0','1'}
+@attribute resurged  {'0','1'}
+@attribute resurgence  {'0','1'}
+@attribute retain  {'0','1'}
+@attribute retained  {'0','1'}
+@attribute retired  {'0','1'}
+@attribute return  {'0','1'}
+@attribute returned  {'0','1'}
+@attribute returning  {'0','1'}
+@attribute reunion  {'0','1'}
+@attribute rich  {'0','1'}
+@attribute right  {'0','1'}
+@attribute rights  {'0','1'}
+@attribute ring  {'0','1'}
+@attribute ripped  {'0','1'}
+@attribute rival  {'0','1'}
+@attribute robust  {'0','1'}
+@attribute rock  {'0','1'}
+@attribute role  {'0','1'}
+@attribute roles  {'0','1'}
+@attribute rookie  {'0','1'}
+@attribute roots  {'0','1'}
+@attribute rose  {'0','1'}
+@attribute round  {'0','1'}
+@attribute royal  {'0','1'}
+@attribute ruckman  {'0','1'}
+@attribute ruined  {'0','1'}
+@attribute rules  {'0','1'}
+@attribute ruling  {'0','1'}
+@attribute rumour  {'0','1'}
+@attribute run  {'0','1'}
+@attribute running  {'0','1'}
+@attribute runoff  {'0','1'}
+@attribute runs  {'0','1'}
+@attribute rural  {'0','1'}
+@attribute safe  {'0','1'}
+@attribute said  {'0','1'}
+@attribute sailed  {'0','1'}
+@attribute saint  {'0','1'}
+@attribute saints  {'0','1'}
+@attribute sales  {'0','1'}
+@attribute salesman  {'0','1'}
+@attribute same  {'0','1'}
+@attribute sang  {'0','1'}
+@attribute saw  {'0','1'}
+@attribute saying  {'0','1'}
+@attribute scale  {'0','1'}
+@attribute scene  {'0','1'}
+@attribute scheduled  {'0','1'}
+@attribute scholar  {'0','1'}
+@attribute school  {'0','1'}
+@attribute science  {'0','1'}
+@attribute score  {'0','1'}
+@attribute scored  {'0','1'}
+@attribute scoreless  {'0','1'}
+@attribute scoring  {'0','1'}
+@attribute scorned  {'0','1'}
+@attribute screen  {'0','1'}
+@attribute script  {'0','1'}
+@attribute search  {'0','1'}
+@attribute seaside  {'0','1'}
+@attribute season  {'0','1'}
+@attribute seasons  {'0','1'}
+@attribute seat  {'0','1'}
+@attribute second  {'0','1'}
+@attribute secondary  {'0','1'}
+@attribute see  {'0','1'}
+@attribute seeing  {'0','1'}
+@attribute seen  {'0','1'}
+@attribute sees  {'0','1'}
+@attribute selected  {'0','1'}
+@attribute selection  {'0','1'}
+@attribute self  {'0','1'}
+@attribute selling  {'0','1'}
+@attribute semi  {'0','1'}
+@attribute senate  {'0','1'}
+@attribute senator  {'0','1'}
+@attribute senior  {'0','1'}
+@attribute sense  {'0','1'}
+@attribute sent  {'0','1'}
+@attribute sentenced  {'0','1'}
+@attribute series  {'0','1'}
+@attribute seriously  {'0','1'}
+@attribute served  {'0','1'}
+@attribute serves  {'0','1'}
+@attribute service  {'0','1'}
+@attribute serving  {'0','1'}
+@attribute sessions  {'0','1'}
+@attribute set  {'0','1'}
+@attribute sets  {'0','1'}
+@attribute settlement  {'0','1'}
+@attribute settlements  {'0','1'}
+@attribute seventeen  {'0','1'}
+@attribute several  {'0','1'}
+@attribute share  {'0','1'}
+@attribute sharks  {'0','1'}
+@attribute she  {'0','1'}
+@attribute shingura  {'0','1'}
+@attribute ships  {'0','1'}
+@attribute shoe  {'0','1'}
+@attribute shooting  {'0','1'}
+@attribute shores  {'0','1'}
+@attribute short  {'0','1'}
+@attribute shortly  {'0','1'}
+@attribute shortstop  {'0','1'}
+@attribute shot  {'0','1'}
+@attribute show  {'0','1'}
+@attribute showed  {'0','1'}
+@attribute showing  {'0','1'}
+@attribute showroom  {'0','1'}
+@attribute shows  {'0','1'}
+@attribute shrapnel  {'0','1'}
+@attribute shunned  {'0','1'}
+@attribute siblings  {'0','1'}
+@attribute side  {'0','1'}
+@attribute sighted  {'0','1'}
+@attribute signed  {'0','1'}
+@attribute silent  {'0','1'}
+@attribute silver  {'0','1'}
+@attribute sim  {'0','1'}
+@attribute simplified  {'0','1'}
+@attribute since  {'0','1'}
+@attribute singer  {'0','1'}
+@attribute singing  {'0','1'}
+@attribute single  {'0','1'}
+@attribute singles  {'0','1'}
+@attribute sister  {'0','1'}
+@attribute situation  {'0','1'}
+@attribute six  {'0','1'}
+@attribute skating  {'0','1'}
+@attribute skeleton  {'0','1'}
+@attribute skirmished  {'0','1'}
+@attribute slapstick  {'0','1'}
+@attribute slow  {'0','1'}
+@attribute slumped  {'0','1'}
+@attribute small  {'0','1'}
+@attribute so  {'0','1'}
+@attribute soap  {'0','1'}
+@attribute sobre  {'0','1'}
+@attribute soccer  {'0','1'}
+@attribute sold  {'0','1'}
+@attribute soldiers  {'0','1'}
+@attribute solidarity  {'0','1'}
+@attribute solo  {'0','1'}
+@attribute some  {'0','1'}
+@attribute son  {'0','1'}
+@attribute song  {'0','1'}
+@attribute songs  {'0','1'}
+@attribute songwriter  {'0','1'}
+@attribute sons  {'0','1'}
+@attribute soon  {'0','1'}
+@attribute south  {'0','1'}
+@attribute southeast  {'0','1'}
+@attribute southern  {'0','1'}
+@attribute spark  {'0','1'}
+@attribute speaking  {'0','1'}
+@attribute special  {'0','1'}
+@attribute specialise  {'0','1'}
+@attribute specialized  {'0','1'}
+@attribute specializing  {'0','1'}
+@attribute specifically  {'0','1'}
+@attribute spelt  {'0','1'}
+@attribute spends  {'0','1'}
+@attribute spent  {'0','1'}
+@attribute spirited  {'0','1'}
+@attribute spokesman  {'0','1'}
+@attribute sports  {'0','1'}
+@attribute sportscar  {'0','1'}
+@attribute spot  {'0','1'}
+@attribute squad  {'0','1'}
+@attribute squadron  {'0','1'}
+@attribute ssio  {'0','1'}
+@attribute staff  {'0','1'}
+@attribute stage  {'0','1'}
+@attribute star  {'0','1'}
+@attribute starred  {'0','1'}
+@attribute stars  {'0','1'}
+@attribute start  {'0','1'}
+@attribute started  {'0','1'}
+@attribute starting  {'0','1'}
+@attribute state  {'0','1'}
+@attribute stated  {'0','1'}
+@attribute statement  {'0','1'}
+@attribute stating  {'0','1'}
+@attribute station  {'0','1'}
+@attribute stationed  {'0','1'}
+@attribute stay  {'0','1'}
+@attribute stayed  {'0','1'}
+@attribute staying  {'0','1'}
+@attribute stellar  {'0','1'}
+@attribute stepped  {'0','1'}
+@attribute still  {'0','1'}
+@attribute stingrays  {'0','1'}
+@attribute stockbroker  {'0','1'}
+@attribute stole  {'0','1'}
+@attribute stolen  {'0','1'}
+@attribute stomach  {'0','1'}
+@attribute story  {'0','1'}
+@attribute storyline  {'0','1'}
+@attribute straight  {'0','1'}
+@attribute streak  {'0','1'}
+@attribute strike  {'0','1'}
+@attribute strong  {'0','1'}
+@attribute struck  {'0','1'}
+@attribute struggle  {'0','1'}
+@attribute struggled  {'0','1'}
+@attribute student  {'0','1'}
+@attribute studied  {'0','1'}
+@attribute studio  {'0','1'}
+@attribute study  {'0','1'}
+@attribute stuff  {'0','1'}
+@attribute style  {'0','1'}
+@attribute subdirector  {'0','1'}
+@attribute subject  {'0','1'}
+@attribute submerged  {'0','1'}
+@attribute subordinant  {'0','1'}
+@attribute subsequently  {'0','1'}
+@attribute suburb  {'0','1'}
+@attribute suburbs  {'0','1'}
+@attribute succeed  {'0','1'}
+@attribute success  {'0','1'}
+@attribute such  {'0','1'}
+@attribute suddenly  {'0','1'}
+@attribute suffered  {'0','1'}
+@attribute suffragan  {'0','1'}
+@attribute sugar  {'0','1'}
+@attribute suicide  {'0','1'}
+@attribute suited  {'0','1'}
+@attribute summer  {'0','1'}
+@attribute summit  {'0','1'}
+@attribute supernatural  {'0','1'}
+@attribute superstar  {'0','1'}
+@attribute supplying  {'0','1'}
+@attribute support  {'0','1'}
+@attribute supported  {'0','1'}
+@attribute suspended  {'0','1'}
+@attribute sustained  {'0','1'}
+@attribute swallowed  {'0','1'}
+@attribute swallower  {'0','1'}
+@attribute sword  {'0','1'}
+@attribute sworn  {'0','1'}
+@attribute symbol  {'0','1'}
+@attribute syndrome  {'0','1'}
+@attribute ta  {'0','1'}
+@attribute tabled  {'0','1'}
+@attribute tag  {'0','1'}
+@attribute tail  {'0','1'}
+@attribute take  {'0','1'}
+@attribute taken  {'0','1'}
+@attribute taking  {'0','1'}
+@attribute talent  {'0','1'}
+@attribute talented  {'0','1'}
+@attribute talking  {'0','1'}
+@attribute tank  {'0','1'}
+@attribute taught  {'0','1'}
+@attribute teacher  {'0','1'}
+@attribute team  {'0','1'}
+@attribute teamed  {'0','1'}
+@attribute techniques  {'0','1'}
+@attribute technology  {'0','1'}
+@attribute telenovela  {'0','1'}
+@attribute television  {'0','1'}
+@attribute ten  {'0','1'}
+@attribute tennis  {'0','1'}
+@attribute tense  {'0','1'}
+@attribute tent  {'0','1'}
+@attribute term  {'0','1'}
+@attribute test  {'0','1'}
+@attribute text  {'0','1'}
+@attribute than  {'0','1'}
+@attribute thanks  {'0','1'}
+@attribute that  {'0','1'}
+@attribute the  {'0','1'}
+@attribute theatre  {'0','1'}
+@attribute their  {'0','1'}
+@attribute them  {'0','1'}
+@attribute theme  {'0','1'}
+@attribute themed  {'0','1'}
+@attribute then  {'0','1'}
+@attribute theoretically  {'0','1'}
+@attribute therapist  {'0','1'}
+@attribute there  {'0','1'}
+@attribute they  {'0','1'}
+@attribute thinking  {'0','1'}
+@attribute third  {'0','1'}
+@attribute this  {'0','1'}
+@attribute those  {'0','1'}
+@attribute though  {'0','1'}
+@attribute thought  {'0','1'}
+@attribute thousands  {'0','1'}
+@attribute three  {'0','1'}
+@attribute throat  {'0','1'}
+@attribute through  {'0','1'}
+@attribute throughout  {'0','1'}
+@attribute ticket  {'0','1'}
+@attribute tied  {'0','1'}
+@attribute timber  {'0','1'}
+@attribute time  {'0','1'}
+@attribute times  {'0','1'}
+@attribute tipped  {'0','1'}
+@attribute title  {'0','1'}
+@attribute titled  {'0','1'}
+@attribute titles  {'0','1'}
+@attribute titular  {'0','1'}
+@attribute to  {'0','1'}
+@attribute today  {'0','1'}
+@attribute together  {'0','1'}
+@attribute told  {'0','1'}
+@attribute tomb  {'0','1'}
+@attribute took  {'0','1'}
+@attribute top  {'0','1'}
+@attribute topping  {'0','1'}
+@attribute torn  {'0','1'}
+@attribute total  {'0','1'}
+@attribute tour  {'0','1'}
+@attribute toured  {'0','1'}
+@attribute tournament  {'0','1'}
+@attribute toward  {'0','1'}
+@attribute town  {'0','1'}
+@attribute towns  {'0','1'}
+@attribute toys  {'0','1'}
+@attribute track  {'0','1'}
+@attribute tractor  {'0','1'}
+@attribute traded  {'0','1'}
+@attribute traditional  {'0','1'}
+@attribute training  {'0','1'}
+@attribute transfer  {'0','1'}
+@attribute transferred  {'0','1'}
+@attribute transport  {'0','1'}
+@attribute traveled  {'0','1'}
+@attribute travelling  {'0','1'}
+@attribute travels  {'0','1'}
+@attribute treatment  {'0','1'}
+@attribute tri  {'0','1'}
+@attribute tribune  {'0','1'}
+@attribute trip  {'0','1'}
+@attribute troops  {'0','1'}
+@attribute tropical  {'0','1'}
+@attribute truly  {'0','1'}
+@attribute trustees  {'0','1'}
+@attribute try  {'0','1'}
+@attribute ttingen  {'0','1'}
+@attribute turned  {'0','1'}
+@attribute turning  {'0','1'}
+@attribute tutor  {'0','1'}
+@attribute twelve  {'0','1'}
+@attribute twentieth  {'0','1'}
+@attribute twenty  {'0','1'}
+@attribute twice  {'0','1'}
+@attribute two  {'0','1'}
+@attribute type  {'0','1'}
+@attribute typecast  {'0','1'}
+@attribute uh  {'0','1'}
+@attribute ultimately  {'0','1'}
+@attribute unacknowledged  {'0','1'}
+@attribute unanimously  {'0','1'}
+@attribute uncle  {'0','1'}
+@attribute under  {'0','1'}
+@attribute undergo  {'0','1'}
+@attribute understanding  {'0','1'}
+@attribute undertaken  {'0','1'}
+@attribute underwater  {'0','1'}
+@attribute underwent  {'0','1'}
+@attribute unexpectedly  {'0','1'}
+@attribute unfairly  {'0','1'}
+@attribute unfortunately  {'0','1'}
+@attribute unit  {'0','1'}
+@attribute united  {'0','1'}
+@attribute universities  {'0','1'}
+@attribute university  {'0','1'}
+@attribute unknown  {'0','1'}
+@attribute unlike  {'0','1'}
+@attribute unsuccessful  {'0','1'}
+@attribute unsuccessfully  {'0','1'}
+@attribute until  {'0','1'}
+@attribute up  {'0','1'}
+@attribute upon  {'0','1'}
+@attribute urban  {'0','1'}
+@attribute us  {'0','1'}
+@attribute use  {'0','1'}
+@attribute used  {'0','1'}
+@attribute using  {'0','1'}
+@attribute usually  {'0','1'}
+@attribute vacuum  {'0','1'}
+@attribute valedictorian  {'0','1'}
+@attribute variety  {'0','1'}
+@attribute various  {'0','1'}
+@attribute vehicles  {'0','1'}
+@attribute ventriloquist  {'0','1'}
+@attribute venues  {'0','1'}
+@attribute version  {'0','1'}
+@attribute versus  {'0','1'}
+@attribute very  {'0','1'}
+@attribute veterinarian  {'0','1'}
+@attribute viceroy  {'0','1'}
+@attribute victory  {'0','1'}
+@attribute view  {'0','1'}
+@attribute vigorously  {'0','1'}
+@attribute village  {'0','1'}
+@attribute villages  {'0','1'}
+@attribute violent  {'0','1'}
+@attribute vital  {'0','1'}
+@attribute vocalist  {'0','1'}
+@attribute voice  {'0','1'}
+@attribute vote  {'0','1'}
+@attribute voted  {'0','1'}
+@attribute vying  {'0','1'}
+@attribute wanted  {'0','1'}
+@attribute wanting  {'0','1'}
+@attribute war  {'0','1'}
+@attribute was  {'0','1'}
+@attribute wasn  {'0','1'}
+@attribute wealthy  {'0','1'}
+@attribute wear  {'0','1'}
+@attribute wearing  {'0','1'}
+@attribute weary  {'0','1'}
+@attribute weather  {'0','1'}
+@attribute weatherman  {'0','1'}
+@attribute website  {'0','1'}
+@attribute wed  {'0','1'}
+@attribute wedding  {'0','1'}
+@attribute week  {'0','1'}
+@attribute weeks  {'0','1'}
+@attribute weights  {'0','1'}
+@attribute welcomed  {'0','1'}
+@attribute well  {'0','1'}
+@attribute wells  {'0','1'}
+@attribute went  {'0','1'}
+@attribute were  {'0','1'}
+@attribute what  {'0','1'}
+@attribute when  {'0','1'}
+@attribute where  {'0','1'}
+@attribute which  {'0','1'}
+@attribute while  {'0','1'}
+@attribute whiskey  {'0','1'}
+@attribute who  {'0','1'}
+@attribute whole  {'0','1'}
+@attribute whom  {'0','1'}
+@attribute whose  {'0','1'}
+@attribute wicket  {'0','1'}
+@attribute wide  {'0','1'}
+@attribute widely  {'0','1'}
+@attribute wife  {'0','1'}
+@attribute will  {'0','1'}
+@attribute win  {'0','1'}
+@attribute wing  {'0','1'}
+@attribute winning  {'0','1'}
+@attribute winter  {'0','1'}
+@attribute with  {'0','1'}
+@attribute withdrew  {'0','1'}
+@attribute within  {'0','1'}
+@attribute woman  {'0','1'}
+@attribute won  {'0','1'}
+@attribute word  {'0','1'}
+@attribute words  {'0','1'}
+@attribute wore  {'0','1'}
+@attribute work  {'0','1'}
+@attribute worked  {'0','1'}
+@attribute working  {'0','1'}
+@attribute works  {'0','1'}
+@attribute world  {'0','1'}
+@attribute worldwide  {'0','1'}
+@attribute would  {'0','1'}
+@attribute wounded  {'0','1'}
+@attribute wrestler  {'0','1'}
+@attribute wrestling  {'0','1'}
+@attribute write  {'0','1'}
+@attribute writer  {'0','1'}
+@attribute writing  {'0','1'}
+@attribute written  {'0','1'}
+@attribute wrote  {'0','1'}
+@attribute xi  {'0','1'}
+@attribute yards  {'0','1'}
+@attribute year  {'0','1'}
+@attribute years  {'0','1'}
+@attribute yet  {'0','1'}
+@attribute you  {'0','1'}
+@attribute young  {'0','1'}
+@attribute younger  {'0','1'}
+@attribute youngest  {'0','1'}
+@attribute youth  {'0','1'}
+@attribute zen  {'0','1'}
+@attribute zi  {'0','1'}
+@attribute zine  {'0','1'}
+@attribute zoology  {'0','1'}
+@attribute isLocationBetween {'yes','no'}
+@attribute isDateBetween {'yes','no'}
+@attribute isEntityMentionedFirst {'yes','no'}
+@attribute numberOfWordsBetween numeric
+@attribute isPositiveSample {'Positive','Negative'}
+
+@data
+
+{328 1,1323 1,1335 1,1395 1,1847 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{219 1,247 1,282 1,690 1,751 1,918 1,1037 1,1075 1,1648 1,1707 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{318 1,328 1,835 1,966 1,1201 1,1281 1,1335 1,1480 1,1846 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Negative"}
+{272 1,278 1,282 1,647 1,767 1,774 1,1037 1,1091 1,1178 1,1335 1,1350 1,1384 1,1712 1,1912 1,2073 1,2125 "no",2126 "no",2127 "yes",2128 23,2129 "Negative"}
+{637 1,1037 1,1091 1,1335 1,1785 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{46 1,88 1,163 1,282 1,407 1,1037 1,1194 1,1423 1,1473 1,1627 1,2050 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 16,2129 "Negative"}
+{82 1,328 1,406 1,2125 "no",2126 "yes",2127 "yes",2128 3,2129 "Positive"}
+{272 1,318 1,406 1,1037 1,1124 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{2 1,94 1,171 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{94 1,406 1,1037 1,2050 1,2114 1,2125 "no",2126 "yes",2127 "yes",2128 9,2129 "Negative"}
+{918 1,949 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{1944 1,2067 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{247 1,282 1,408 1,438 1,462 1,596 1,769 1,893 1,990 1,1037 1,1084 1,1560 1,1680 1,1824 1,1901 1,1918 1,2067 1,2125 "no",2126 "no",2127 "yes",2128 22,2129 "Negative"}
+{966 1,1037 1,1176 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{282 1,407 1,498 1,958 1,967 1,1037 1,1175 1,1989 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{44 1,60 1,166 1,282 1,761 1,1335 1,1490 1,1912 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 13,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{608 1,894 1,895 1,1037 1,1074 1,1091 1,1645 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Positive"}
+{282 1,1037 1,1335 1,1371 1,1422 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{146 1,282 1,367 1,737 1,1091 1,1136 1,1137 1,1335 1,1370 1,1546 1,1912 1,1925 1,1944 1,2000 1,2088 1,2096 1,2113 1,2125 "no",2126 "yes",2127 "yes",2128 23,2129 "Negative"}
+{1043 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{237 1,272 1,442 1,1037 1,1912 1,2020 1,2068 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{80 1,116 1,1335 1,1449 1,1615 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{80 1,328 1,406 1,1037 1,1346 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Positive"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{2125 "no",2126 "no",2127 "yes",2128 0,2129 "Negative"}
+{2125 "no",2126 "no",2127 "yes",2128 0,2129 "Negative"}
+{2125 "no",2126 "no",2127 "yes",2128 0,2129 "Negative"}
+{2125 "no",2126 "no",2127 "yes",2128 0,2129 "Negative"}
+{2125 "no",2126 "no",2127 "yes",2128 0,2129 "Negative"}
+{282 1,2125 "no",2126 "no",2127 "yes",2128 1,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{907 1,1335 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{318 1,2125 "no",2126 "no",2127 "no",2128 1,2129 "Positive"}
+{282 1,290 1,502 1,506 1,969 1,981 1,1065 1,1150 1,1272 1,1335 1,1912 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 14,2129 "Negative"}
+{70 1,158 1,250 1,282 1,328 1,1335 1,1912 1,2125 "no",2126 "no",2127 "no",2128 14,2129 "Negative"}
+{70 1,158 1,250 1,328 1,1335 1,1912 1,2125 "no",2126 "yes",2127 "no",2128 9,2129 "Positive"}
+{318 1,502 1,918 1,990 1,1037 1,1335 1,1465 1,1536 1,1633 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Positive"}
+{81 1,328 1,488 1,739 1,969 1,1037 1,1234 1,1752 1,2077 1,2125 "no",2126 "yes",2127 "yes",2128 9,2129 "Negative"}
+{1273 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 2,2129 "Negative"}
+{247 1,1088 1,2125 "no",2126 "no",2127 "no",2128 4,2129 "Negative"}
+{1944 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{249 1,655 1,990 1,1196 1,1289 1,1896 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{527 1,1037 1,1779 1,1912 1,2050 1,2088 1,2120 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{7 1,147 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Positive"}
+{272 1,282 1,328 1,374 1,380 1,776 1,966 1,1198 1,1708 1,1912 1,2028 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{90 1,328 1,377 1,649 1,751 1,984 1,990 1,1037 1,1261 1,1690 1,2125 "no",2126 "yes",2127 "yes",2128 17,2129 "Negative"}
+{1037 1,1847 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{278 1,282 1,326 1,340 1,521 1,951 1,1037 1,1174 1,1224 1,1233 1,1335 1,1346 1,1421 1,1615 1,1689 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 25,2129 "Positive"}
+{282 1,328 1,406 1,846 1,1270 1,2050 1,2068 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{328 1,990 1,1003 1,1006 1,1037 1,1802 1,2022 1,2087 1,2125 "no",2126 "yes",2127 "yes",2128 9,2129 "Positive"}
+{54 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 3,2129 "Negative"}
+{137 1,151 1,377 1,462 1,528 1,990 1,1037 1,1912 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 12,2129 "Negative"}
+{282 1,369 1,517 1,527 1,595 1,670 1,970 1,990 1,1097 1,1103 1,1303 1,1316 1,1335 1,1377 1,1395 1,1439 1,1790 1,1896 1,1911 1,1912 1,1949 1,2050 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 32,2129 "Negative"}
+{277 1,282 1,305 1,670 1,689 1,768 1,1037 1,1443 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{23 1,107 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{173 1,963 1,1581 1,1912 1,2031 1,2112 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{272 1,282 1,318 1,560 1,674 1,732 1,785 1,895 1,969 1,1037 1,1045 1,1104 1,1334 1,1335 1,1342 1,1346 1,1798 1,1872 1,1911 1,1912 1,1937 1,1949 1,2025 1,2097 1,2125 "no",2126 "no",2127 "yes",2128 29,2129 "Negative"}
+{197 1,318 1,328 1,409 1,802 1,811 1,990 1,1037 1,1044 1,1103 1,1105 1,1141 1,1155 1,1157 1,1182 1,1311 1,1335 1,1470 1,1647 1,1727 1,1850 1,1889 1,1912 1,1935 1,1944 1,2061 1,2063 1,2068 1,2072 1,2088 1,2096 1,2125 "no",2126 "no",2127 "yes",2128 36,2129 "Positive"}
+{278 1,409 1,805 1,918 1,1091 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{262 1,318 1,409 1,524 1,849 1,867 1,918 1,987 1,989 1,1166 1,1311 1,1534 1,1909 1,1912 1,1944 1,2055 1,2100 1,2125 "no",2126 "no",2127 "yes",2128 24,2129 "Negative"}
+{129 1,130 1,282 1,418 1,969 1,1037 1,1088 1,1107 1,1335 1,1742 1,1944 1,1949 1,2050 1,2070 1,2125 "no",2126 "yes",2127 "yes",2128 22,2129 "Negative"}
+{282 1,1513 1,1728 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Negative"}
+{116 1,234 1,278 1,282 1,406 1,1037 1,1091 1,1354 1,1460 1,1762 1,1777 1,1815 1,1912 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 17,2129 "Negative"}
+{272 1,288 1,1037 1,1777 1,1815 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{282 1,371 1,410 1,686 1,845 1,918 1,966 1,1037 1,1115 1,1403 1,1583 1,1713 1,2053 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{282 1,371 1,866 1,959 1,966 1,1091 1,1124 1,1346 1,1544 1,1600 1,2065 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{117 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Negative"}
+{57 1,112 1,166 1,278 1,282 1,991 1,993 1,994 1,1037 1,1335 1,1798 1,1912 1,2050 1,2075 1,2125 "no",2126 "yes",2127 "yes",2128 22,2129 "Negative"}
+{671 1,918 1,1037 1,1335 1,1580 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{671 1,918 1,1037 1,1335 1,1580 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Positive"}
+{388 1,2125 "no",2126 "no",2127 "yes",2128 1,2129 "Negative"}
+{23 1,102 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{369 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{954 1,1037 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{954 1,1037 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{328 1,536 1,881 1,1037 1,1182 1,1560 1,1818 1,1824 1,1912 1,2098 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{328 1,536 1,881 1,1037 1,1182 1,1560 1,1818 1,1824 1,1912 1,2098 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Positive"}
+{272 1,421 1,1037 1,2088 1,2097 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{272 1,421 1,1037 1,2088 1,2097 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Positive"}
+{133 1,135 1,278 1,280 1,282 1,895 1,1037 1,1323 1,1355 1,1383 1,1620 1,1824 1,1901 1,1912 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 23,2129 "Negative"}
+{1647 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{150 1,170 1,739 1,763 1,1059 1,1086 1,1335 1,1912 1,2050 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 21,2129 "Negative"}
+{895 1,1335 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{2 1,153 1,278 1,282 1,328 1,763 1,918 1,919 1,1037 1,1054 1,1084 1,1172 1,1214 1,1245 1,1349 1,1451 1,1619 1,1912 1,2006 1,2049 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 30,2129 "Negative"}
+{114 1,406 1,881 1,1037 1,1284 1,1532 1,1992 1,2125 "no",2126 "yes",2127 "yes",2128 9,2129 "Positive"}
+{1037 1,1176 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Positive"}
+{328 1,333 1,1037 1,2009 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{918 1,1273 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{918 1,1273 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Positive"}
+{388 1,712 1,979 1,1937 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{374 1,793 1,854 1,963 1,983 1,1037 1,1736 1,1821 1,1911 1,1912 1,2012 1,2125 "no",2126 "yes",2127 "yes",2128 14,2129 "Positive"}
+{226 1,272 1,282 1,318 1,848 1,966 1,1091 1,1101 1,1347 1,1762 1,1891 1,1912 1,2097 1,2125 "no",2126 "no",2127 "yes",2128 16,2129 "Negative"}
+{149 1,226 1,272 1,328 1,524 1,693 1,1037 1,1101 1,1310 1,1763 1,1783 1,1912 1,1930 1,2125 "no",2126 "yes",2127 "yes",2128 18,2129 "Negative"}
+{23 1,54 1,96 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 7,2129 "Positive"}
+{406 1,835 1,843 1,1037 1,1084 1,1457 1,1793 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Positive"}
+{318 1,1037 1,1912 1,1984 1,2050 1,2098 1,2125 "no",2126 "yes",2127 "yes",2128 7,2129 "Negative"}
+{1037 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Positive"}
+{85 1,2125 "no",2126 "yes",2127 "yes",2128 2,2129 "Negative"}
+{272 1,388 1,895 1,926 1,1025 1,1037 1,1052 1,1084 1,1124 1,1335 1,1729 1,1745 1,1889 1,1904 1,1912 1,2050 1,2074 1,2125 "no",2126 "no",2127 "yes",2128 27,2129 "Negative"}
+{118 1,123 1,125 1,282 1,456 1,895 1,969 1,1037 1,1165 1,1346 1,1530 1,1725 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 22,2129 "Negative"}
+{318 1,1124 1,2125 "no",2126 "no",2127 "no",2128 2,2129 "Positive"}
+{842 1,954 1,1294 1,1346 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{842 1,954 1,1294 1,1346 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{282 1,515 1,624 1,655 1,722 1,881 1,895 1,990 1,1170 1,1196 1,1379 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Positive"}
+{1 1,149 1,218 1,278 1,287 1,439 1,649 1,739 1,918 1,1037 1,1077 1,1290 1,1349 1,1616 1,1687 1,1912 1,1944 1,1956 1,1973 1,2014 1,2015 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 27,2129 "Positive"}
+{318 1,1440 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{249 1,624 1,1440 1,1577 1,1944 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{38 1,202 1,203 1,318 1,385 1,407 1,462 1,895 1,1335 1,1395 1,1402 1,1588 1,1670 1,1693 1,1912 1,2079 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 20,2129 "Negative"}
+{38 1,202 1,203 1,282 1,318 1,385 1,407 1,462 1,895 1,1335 1,1395 1,1402 1,1588 1,1670 1,1693 1,1912 1,2079 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 24,2129 "Positive"}
+{198 1,249 1,985 1,1091 1,1316 1,1373 1,1692 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{272 1,318 1,895 1,1467 1,2099 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{45 1,161 1,694 1,1037 1,1346 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{894 1,1077 1,2125 "no",2126 "no",2127 "no",2128 5,2129 "Positive"}
+{11 1,278 1,895 1,918 1,1030 1,1153 1,1335 1,1337 1,1413 1,1440 1,1580 1,1912 1,1944 1,2061 1,2125 "no",2126 "no",2127 "yes",2128 22,2129 "Positive"}
+{1346 1,1401 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{1153 1,2125 "no",2126 "yes",2127 "yes",2128 1,2129 "Negative"}
+{282 1,307 1,376 1,425 1,649 1,660 1,926 1,990 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{282 1,288 1,834 1,870 1,990 1,1225 1,1896 1,1912 1,1925 1,1937 1,1944 1,2067 1,2115 1,2125 "no",2126 "yes",2127 "yes",2128 16,2129 "Negative"}
+{753 1,870 1,990 1,1188 1,1349 1,1839 1,1912 1,1925 1,1944 1,2067 1,2125 "no",2126 "yes",2127 "yes",2128 13,2129 "Negative"}
+{88 1,918 1,925 1,990 1,1608 1,2125 "no",2126 "yes",2127 "yes",2128 8,2129 "Negative"}
+{278 1,318 1,774 1,1037 1,2097 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{129 1,160 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{282 1,428 1,1264 1,1344 1,1350 1,1736 1,1930 1,1944 1,2050 1,2070 1,2125 "no",2126 "no",2127 "no",2128 11,2129 "Positive"}
+{40 1,77 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{185 1,2125 "no",2126 "yes",2127 "no",2128 1,2129 "Positive"}
+{2 1,96 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 7,2129 "Positive"}
+{96 1,406 1,1037 1,1294 1,2038 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 7,2129 "Positive"}
+{35 1,152 1,154 1,171 1,282 1,328 1,479 1,588 1,643 1,735 1,739 1,780 1,847 1,988 1,1280 1,1335 1,1346 1,1444 1,1725 1,1763 1,1912 1,2088 1,2125 "no",2126 "yes",2127 "no",2128 40,2129 "Negative"}
+{267 1,318 1,553 1,848 1,895 1,969 1,990 1,1037 1,1064 1,1335 1,1346 1,1377 1,1492 1,1503 1,1528 1,1684 1,1912 1,1972 1,2049 1,2050 1,2069 1,2125 "no",2126 "yes",2127 "yes",2128 25,2129 "Negative"}
+{282 1,437 1,445 1,892 1,898 1,1033 1,1037 1,1432 1,1782 1,1905 1,1912 1,1926 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 16,2129 "Negative"}
+{249 1,282 1,328 1,518 1,531 1,629 1,638 1,891 1,990 1,1037 1,1097 1,1336 1,1536 1,1654 1,1823 1,1869 1,1911 1,1912 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 23,2129 "Negative"}
+{443 1,458 1,895 1,918 1,990 1,1037 1,1110 1,1335 1,1608 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 13,2129 "Negative"}
+{328 1,1152 1,1335 1,1475 1,1910 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{504 1,1037 1,1143 1,1241 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{328 1,371 1,966 1,1000 1,1701 1,1934 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{0 1,184 1,257 1,895 1,1562 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{127 1,167 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{328 1,1845 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{248 1,895 1,1091 1,1434 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Negative"}
+{436 1,693 1,741 1,918 1,948 1,1037 1,1335 1,1690 1,1845 1,1912 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{158 1,178 1,526 1,619 1,626 1,696 1,729 1,966 1,1045 1,1269 1,1296 1,1362 1,1750 1,2125 "no",2126 "no",2127 "yes",2128 26,2129 "Negative"}
+{828 1,1037 1,1202 1,1352 1,1848 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{637 1,1037 1,1177 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{963 1,1273 1,1944 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{328 1,428 1,845 1,923 1,934 1,969 1,990 1,1259 1,1766 1,1912 1,1944 1,2050 1,2077 1,2125 "no",2126 "no",2127 "yes",2128 20,2129 "Negative"}
+{348 1,1273 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{280 1,918 1,963 1,1037 1,1305 1,1607 1,1824 1,1888 1,1901 1,2015 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 14,2129 "Negative"}
+{153 1,744 1,987 1,1037 1,1083 1,1241 1,1598 1,1736 1,2050 1,2070 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Negative"}
+{103 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{282 1,318 1,335 1,337 1,436 1,525 1,918 1,1037 1,1265 1,1349 1,1359 1,1371 1,1826 1,1861 1,1944 1,2113 1,2125 "no",2126 "no",2127 "yes",2128 25,2129 "Negative"}
+{249 1,655 1,990 1,1196 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{288 1,599 1,701 1,917 1,918 1,1037 1,1119 1,1223 1,1693 1,2031 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{1031 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{101 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{121 1,127 1,130 1,895 1,901 1,918 1,1091 1,1433 1,1441 1,1912 1,1932 1,2075 1,2125 "no",2126 "yes",2127 "yes",2128 19,2129 "Negative"}
+{1108 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{1912 1,1944 1,1963 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Negative"}
+{270 1,282 1,295 1,361 1,498 1,584 1,835 1,916 1,990 1,1037 1,1184 1,1335 1,1444 1,1573 1,1746 1,1912 1,1930 1,1937 1,2050 1,2073 1,2075 1,2082 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 33,2129 "Negative"}
+{265 1,327 1,328 1,460 1,493 1,733 1,739 1,769 1,853 1,961 1,969 1,1037 1,1055 1,1168 1,1335 1,1447 1,1575 1,1591 1,1912 1,1944 1,1997 1,2072 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 23,2129 "Negative"}
+{2125 "no",2126 "no",2127 "no",2128 0,2129 "Negative"}
+{895 1,990 1,1008 1,1441 1,1896 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{1153 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{122 1,124 1,125 1,282 1,684 1,895 1,990 1,1037 1,1134 1,1180 1,1335 1,1441 1,1701 1,1702 1,1827 1,1918 1,1953 1,2125 "no",2126 "no",2127 "yes",2128 24,2129 "Negative"}
+{1647 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{150 1,151 1,527 1,895 1,901 1,969 1,989 1,1647 1,1701 1,1912 1,1944 1,2050 1,2070 1,2125 "no",2126 "no",2127 "yes",2128 18,2129 "Negative"}
+{139 1,318 1,325 1,440 1,527 1,881 1,989 1,999 1,1023 1,1037 1,1077 1,1240 1,1289 1,1860 1,1896 1,1912 1,2050 1,2071 1,2125 "no",2126 "yes",2127 "yes",2128 23,2129 "Negative"}
+{318 1,527 1,942 1,963 1,970 1,1335 1,1817 1,1896 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{318 1,527 1,970 1,1335 1,1896 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{282 1,344 1,524 1,990 1,1580 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{272 1,419 1,1037 1,1377 1,1441 1,1588 1,1658 1,2041 1,2084 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{895 1,969 1,1243 1,1444 1,1446 1,1651 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{383 1,977 1,1037 1,2026 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{269 1,1646 1,1944 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{282 1,328 1,1335 1,1847 1,1894 1,1912 1,2008 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{566 1,693 1,1025 1,1911 1,1912 1,1927 1,2049 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{282 1,301 1,328 1,421 1,1122 1,1217 1,1335 1,1489 1,1587 1,1704 1,1912 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 17,2129 "Negative"}
+{17 1,282 1,328 1,355 1,367 1,436 1,513 1,677 1,918 1,1037 1,1108 1,1122 1,1335 1,1394 1,1535 1,1596 1,1873 1,1912 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 30,2129 "Negative"}
+{1153 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{282 1,328 1,1318 1,1335 1,1478 1,1479 1,1784 1,2050 1,2070 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{23 1,42 1,282 1,406 1,1037 1,1944 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Positive"}
+{22 1,310 1,778 1,1037 1,1335 1,1549 1,1566 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 17,2129 "Negative"}
+{1037 1,1825 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{779 1,1335 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{282 1,298 1,895 1,952 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Negative"}
+{10 1,2125 "no",2126 "no",2127 "yes",2128 1,2129 "Negative"}
+{266 1,278 1,328 1,954 1,1037 1,1208 1,1595 1,1736 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Positive"}
+{918 1,949 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{19 1,104 1,406 1,1037 1,1346 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{19 1,104 1,406 1,1037 1,1346 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Positive"}
+{672 1,918 1,949 1,1037 1,1335 1,1912 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{293 1,328 1,881 1,1516 1,1813 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Negative"}
+{1037 1,1218 1,1335 1,2125 "no",2126 "yes",2127 "yes",2128 8,2129 "Negative"}
+{282 1,366 1,447 1,560 1,881 1,1036 1,1048 1,1335 1,1380 1,1561 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 18,2129 "Positive"}
+{282 1,433 1,694 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{768 1,1335 1,1701 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{895 1,1441 1,1912 1,1918 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{40 1,62 1,126 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{318 1,548 1,1335 1,1340 1,1723 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Positive"}
+{1335 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{19 1,117 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Positive"}
+{305 1,351 1,918 1,1548 1,1657 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{146 1,311 1,349 1,374 1,412 1,918 1,963 1,1037 1,1335 1,1346 1,1500 1,1690 1,1835 1,1915 1,2070 1,2072 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 19,2129 "Positive"}
+{87 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 3,2129 "Positive"}
+{328 1,1037 1,1847 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{328 1,1037 1,1518 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{278 1,555 1,619 1,895 1,1037 1,1068 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 8,2129 "Negative"}
+{282 1,292 1,328 1,619 1,629 1,812 1,821 1,823 1,895 1,963 1,969 1,1037 1,1196 1,1246 1,1335 1,1383 1,1452 1,1783 1,1820 1,1912 1,1944 1,2019 1,2027 1,2072 1,2096 1,2125 "no",2126 "yes",2127 "yes",2128 38,2129 "Negative"}
+{328 1,813 1,963 1,966 1,1761 1,1783 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{821 1,844 1,1037 1,1068 1,1196 1,1335 1,1456 1,1594 1,1661 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{145 1,407 1,457 1,893 1,1037 1,1896 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 17,2129 "Negative"}
+{105 1,160 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 6,2129 "Positive"}
+{90 1,162 1,406 1,1037 1,1346 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 8,2129 "Positive"}
+{37 1,87 1,278 1,280 1,282 1,318 1,387 1,406 1,496 1,895 1,902 1,1091 1,1124 1,1383 1,1912 1,2056 1,2057 1,2125 "no",2126 "yes",2127 "yes",2128 24,2129 "Negative"}
+{328 1,377 1,462 1,990 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Positive"}
+{498 1,637 1,895 1,1091 1,1297 1,1335 1,1540 1,1805 1,1912 1,1929 1,1933 1,1944 1,1960 1,2072 1,2125 "no",2126 "no",2127 "yes",2128 17,2129 "Negative"}
+{282 1,498 1,637 1,895 1,1091 1,1297 1,1335 1,1540 1,1805 1,1912 1,1929 1,1933 1,1944 1,1960 1,2072 1,2125 "no",2126 "no",2127 "yes",2128 21,2129 "Positive"}
+{625 1,895 1,1091 1,1323 1,1446 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{515 1,655 1,881 1,895 1,990 1,1196 1,2125 "no",2126 "yes",2127 "yes",2128 6,2129 "Negative"}
+{89 1,282 1,336 1,406 1,435 1,901 1,968 1,1091 1,1236 1,1335 1,1621 1,1645 1,1912 1,2075 1,2125 "no",2126 "yes",2127 "yes",2128 21,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 3,2129 "Positive"}
+{385 1,841 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{1037 1,1335 1,1734 1,1912 1,2044 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{73 1,152 1,482 1,827 1,1037 1,1164 1,1335 1,1804 1,2125 "no",2126 "yes",2127 "yes",2128 12,2129 "Negative"}
+{130 1,437 1,852 1,1037 1,1314 1,1335 1,1703 1,1820 1,1958 1,2050 1,2092 1,2125 "no",2126 "yes",2127 "yes",2128 19,2129 "Negative"}
+{556 1,1335 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{154 1,282 1,432 1,901 1,969 1,990 1,1006 1,1037 1,1303 1,1645 1,1912 1,2082 1,2125 "no",2126 "yes",2127 "yes",2128 17,2129 "Negative"}
+{282 1,400 1,703 1,895 1,1335 1,1346 1,1724 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 16,2129 "Negative"}
+{282 1,1037 1,1052 1,1084 1,1335 1,1912 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 12,2129 "Negative"}
+{23 1,119 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Positive"}
+{137 1,282 1,459 1,1037 1,1289 1,1912 1,1942 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Positive"}
+{229 1,318 1,808 1,863 1,895 1,942 1,967 1,1228 1,1253 1,1316 1,1723 1,1773 1,2125 "no",2126 "no",2127 "no",2128 12,2129 "Negative"}
+{374 1,428 1,901 1,963 1,1018 1,1037 1,1808 1,1912 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Positive"}
+{568 1,1037 1,2068 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{328 1,1219 1,1335 1,1476 1,1912 1,1948 1,2050 1,2073 1,2125 "no",2126 "no",2127 "no",2128 8,2129 "Negative"}
+{8 1,282 1,928 1,969 1,1037 1,1335 1,1610 1,1784 1,1912 1,2125 "no",2126 "no",2127 "no",2128 12,2129 "Negative"}
+{9 1,305 1,437 1,679 1,1037 1,1335 1,1346 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{2125 "no",2126 "no",2127 "yes",2128 1,2129 "Negative"}
+{369 1,574 1,836 1,1265 1,1335 1,1911 1,1912 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{19 1,128 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{282 1,652 1,881 1,990 1,1037 1,1589 1,1756 1,1783 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 13,2129 "Negative"}
+{118 1,224 1,264 1,282 1,437 1,996 1,1037 1,1510 1,1589 1,1704 1,1890 1,2050 1,2088 1,2109 1,2125 "no",2126 "no",2127 "yes",2128 21,2129 "Negative"}
+{990 1,995 1,1037 1,1291 1,1325 1,1349 1,1693 1,2125 "no",2126 "yes",2127 "yes",2128 7,2129 "Negative"}
+{414 1,964 1,1037 1,1220 1,1863 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{136 1,248 1,328 1,378 1,567 1,777 1,988 1,1037 1,1135 1,1601 1,1787 1,1944 1,2108 1,2125 "no",2126 "no",2127 "yes",2128 16,2129 "Negative"}
+{328 1,1497 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{835 1,1346 1,2125 "no",2126 "yes",2127 "yes",2128 2,2129 "Negative"}
+{343 1,348 1,369 1,835 1,1006 1,1037 1,1273 1,1312 1,1419 1,1435 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{835 1,1006 1,1037 1,1176 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{296 1,1346 1,1746 1,1912 1,2125 "no",2126 "no",2127 "no",2128 8,2129 "Negative"}
+{282 1,295 1,318 1,331 1,418 1,717 1,889 1,895 1,959 1,966 1,970 1,979 1,1037 1,1346 1,1382 1,1520 1,1721 1,1861 1,1892 1,1912 1,1944 1,2072 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 59,2129 "Negative"}
+{278 1,282 1,560 1,702 1,846 1,954 1,979 1,1028 1,1037 1,1058 1,1210 1,1270 1,1327 1,1335 1,1899 1,1912 1,2015 1,2050 1,2075 1,2125 "no",2126 "yes",2127 "yes",2128 22,2129 "Positive"}
+{282 1,1273 1,1803 1,1912 1,1918 1,1944 1,1970 1,2100 1,2113 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{282 1,551 1,895 1,1618 1,1647 1,1912 1,1918 1,1944 1,1967 1,2125 "no",2126 "no",2127 "yes",2128 18,2129 "Negative"}
+{1037 1,1177 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{233 1,895 1,990 1,1037 1,1091 1,1124 1,1268 1,1335 1,1462 1,1900 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{37 1,40 1,78 1,155 1,282 1,303 1,304 1,1037 1,1431 1,1977 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 16,2129 "Negative"}
+{106 1,328 1,1037 1,1335 1,1647 1,1797 1,1912 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 21,2129 "Negative"}
+{1037 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{1273 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{582 1,846 1,1037 1,1091 1,1335 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{53 1,163 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Negative"}
+{121 1,167 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Positive"}
+{895 1,927 1,1335 1,1441 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 9,2129 "Negative"}
+{765 1,963 1,1335 1,1704 1,1789 1,1912 1,1930 1,1944 1,2050 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{2125 "no",2126 "no",2127 "no",2128 0,2129 "Positive"}
+{282 1,356 1,406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Positive"}
+{345 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{47 1,72 1,168 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{83 1,282 1,357 1,406 1,462 1,990 1,1091 1,1205 1,1335 1,1441 1,1442 1,1645 1,1912 1,2075 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 21,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 3,2129 "Negative"}
+{245 1,282 1,1037 1,1756 1,1912 1,1914 1,1944 1,2067 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 11,2129 "Negative"}
+{175 1,995 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{328 1,743 1,984 1,1037 1,1134 1,1163 1,1335 1,1346 1,1415 1,1912 1,1930 1,1944 1,2067 1,2068 1,2114 1,2125 "no",2126 "yes",2127 "yes",2128 18,2129 "Negative"}
+{1611 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{408 1,1007 1,1037 1,1989 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{436 1,533 1,926 1,997 1,1037 1,1912 1,1930 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{19 1,227 1,247 1,278 1,282 1,318 1,388 1,417 1,739 1,1041 1,1251 1,1409 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 19,2129 "Negative"}
+{194 1,462 1,995 1,1006 1,1325 1,1336 1,1670 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{1912 1,1944 1,1963 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Negative"}
+{1037 1,1460 1,1612 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{881 1,944 1,995 1,1189 1,1335 1,1721 1,1912 1,1944 1,2072 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{1037 1,1612 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{318 1,966 1,1335 1,1723 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{163 1,437 1,1091 1,1325 1,1645 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{163 1,990 1,1037 1,1325 1,1338 1,1420 1,1645 1,1912 1,2095 1,2125 "no",2126 "yes",2127 "yes",2128 11,2129 "Negative"}
+{163 1,282 1,367 1,437 1,804 1,901 1,1037 1,1229 1,1509 1,1570 1,1944 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 20,2129 "Negative"}
+{278 1,716 1,918 1,1010 1,1580 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{28 1,36 1,239 1,278 1,381 1,397 1,575 1,918 1,990 1,1284 1,1671 1,1725 1,1911 1,1912 1,1944 1,1995 1,2045 1,2125 "no",2126 "no",2127 "no",2128 29,2129 "Negative"}
+{11 1,48 1,98 1,143 1,406 1,477 1,1037 1,1442 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 14,2129 "Negative"}
+{694 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{109 1,434 1,918 1,1037 1,1356 1,1818 1,2125 "no",2126 "yes",2127 "yes",2128 6,2129 "Negative"}
+{1037 1,1077 1,1091 1,1335 1,1903 1,1912 1,1956 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Negative"}
+{266 1,282 1,318 1,446 1,967 1,988 1,1037 1,1212 1,1372 1,1398 1,1443 1,1496 1,1861 1,1911 1,1912 1,1956 1,2125 "no",2126 "no",2127 "yes",2128 27,2129 "Negative"}
+{47 1,2125 "no",2126 "yes",2127 "yes",2128 2,2129 "Positive"}
+{426 1,895 1,990 1,1078 1,1446 1,2011 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{244 1,256 1,278 1,282 1,312 1,437 1,542 1,836 1,837 1,850 1,999 1,1023 1,1033 1,1038 1,1265 1,1335 1,1346 1,1349 1,1443 1,1767 1,1912 1,1944 1,1966 1,2050 1,2072 1,2125 "no",2126 "no",2127 "yes",2128 36,2129 "Negative"}
+{282 1,437 1,592 1,604 1,744 1,928 1,931 1,987 1,990 1,1037 1,1320 1,1335 1,1373 1,1769 1,1919 1,1989 1,2050 1,2062 1,2072 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 25,2129 "Negative"}
+{84 1,155 1,161 1,171 1,174 1,282 1,462 1,635 1,901 1,929 1,1037 1,1073 1,1199 1,1227 1,1246 1,1335 1,1605 1,1645 1,1799 1,1814 1,1912 1,1944 1,1997 1,2050 1,2072 1,2113 1,2125 "no",2126 "no",2127 "yes",2128 36,2129 "Negative"}
+{278 1,318 1,745 1,820 1,1289 1,1346 1,1623 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{328 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{272 1,628 1,659 1,937 1,940 1,965 1,968 1,1027 1,1037 1,1055 1,1084 1,1335 1,1353 1,1493 1,1676 1,1912 1,1944 1,2018 1,2049 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 26,2129 "Negative"}
+{278 1,295 1,783 1,1335 1,1346 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{282 1,406 1,954 1,1037 1,2015 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{282 1,987 1,1273 1,1944 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Negative"}
+{348 1,1273 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{282 1,434 1,749 1,887 1,918 1,1037 1,1346 1,1580 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Positive"}
+{1037 1,1241 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{19 1,99 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{278 1,282 1,318 1,326 1,328 1,377 1,407 1,880 1,1037 1,1136 1,1138 1,1335 1,1473 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 21,2129 "Negative"}
+{278 1,282 1,318 1,326 1,328 1,377 1,407 1,880 1,1037 1,1136 1,1138 1,1335 1,1473 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 22,2129 "Positive"}
+{186 1,282 1,442 1,508 1,895 1,979 1,1037 1,1335 1,1464 1,1634 1,1912 1,1944 1,1959 1,2125 "no",2126 "yes",2127 "yes",2128 15,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{282 1,609 1,702 1,1037 1,1091 1,1175 1,1218 1,1511 1,1912 1,1944 1,1946 1,2125 "no",2126 "no",2127 "yes",2128 17,2129 "Negative"}
+{954 1,1037 1,1335 1,1912 1,1958 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{282 1,380 1,406 1,648 1,756 1,1037 1,1335 1,1371 1,1753 1,1912 1,1930 1,1944 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 20,2129 "Negative"}
+{282 1,380 1,406 1,648 1,756 1,1037 1,1335 1,1371 1,1753 1,1912 1,1930 1,1944 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 23,2129 "Positive"}
+{1037 1,1176 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{752 1,1762 1,1788 1,1927 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{311 1,932 1,979 1,1117 1,1192 1,1291 1,1335 1,1444 1,1602 1,1721 1,1818 1,1990 1,2125 "no",2126 "yes",2127 "yes",2128 12,2129 "Positive"}
+{149 1,248 1,284 1,328 1,351 1,567 1,803 1,895 1,1037 1,1108 1,1134 1,1649 1,1912 1,1986 1,2125 "no",2126 "yes",2127 "yes",2128 18,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{2125 "no",2126 "no",2127 "yes",2128 0,2129 "Positive"}
+{128 1,406 1,649 1,669 1,918 1,1037 1,1091 1,1335 1,1486 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 16,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{1647 1,1944 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{127 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Positive"}
+{369 1,861 1,918 1,1350 1,1442 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{11 1,153 1,249 1,881 1,938 1,990 1,1346 1,1693 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 12,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{233 1,278 1,282 1,1014 1,1091 1,1335 1,1384 1,1912 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 17,2129 "Negative"}
+{437 1,990 1,1996 1,2125 "no",2126 "yes",2127 "no",2128 3,2129 "Negative"}
+{15 1,437 1,1037 1,2125 "no",2126 "no",2127 "no",2128 3,2129 "Negative"}
+{369 1,392 1,969 1,1302 1,1335 1,1364 1,1761 1,1912 1,1978 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{215 1,282 1,380 1,663 1,973 1,987 1,1004 1,1472 1,1870 1,1933 1,1944 1,2066 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{172 1,328 1,1912 1,2092 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{2125 "no",2126 "no",2127 "yes",2128 1,2129 "Negative"}
+{437 1,668 1,990 1,1037 1,1076 1,1335 1,1766 1,1912 1,2037 1,2068 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{647 1,1218 1,1335 1,1944 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 11,2129 "Negative"}
+{126 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{641 1,1037 1,1091 1,1183 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{1037 1,1124 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{348 1,402 1,436 1,693 1,987 1,1335 1,1349 1,1776 1,1834 1,1887 1,1912 1,1944 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{1037 1,1631 1,1958 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{272 1,282 1,593 1,640 1,1037 1,1202 1,1289 1,1335 1,1912 1,1989 1,2125 "no",2126 "no",2127 "yes",2128 21,2129 "Negative"}
+{282 1,305 1,835 1,990 1,1237 1,1335 1,1668 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{881 1,1037 1,1175 1,1284 1,1335 1,1736 1,1912 1,1913 1,2021 1,2097 1,2125 "no",2126 "no",2127 "no",2128 10,2129 "Negative"}
+{979 1,1196 1,2125 "no",2126 "yes",2127 "yes",2128 2,2129 "Negative"}
+{2125 "no",2126 "no",2127 "no",2128 0,2129 "Negative"}
+{328 1,590 1,1037 1,1346 1,1415 1,1813 1,1944 1,2029 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{1218 1,1335 1,1785 1,1912 1,2052 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{694 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{7 1,41 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{243 1,420 1,462 1,744 1,918 1,924 1,949 1,990 1,1037 1,1084 1,1272 1,1277 1,1306 1,1346 1,1350 1,1933 1,1944 1,2114 1,2125 "no",2126 "no",2127 "yes",2128 24,2129 "Positive"}
+{1273 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 2,2129 "Negative"}
+{924 1,1277 1,1611 1,1918 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{49 1,278 1,449 1,481 1,895 1,935 1,963 1,1019 1,1037 1,1335 1,1464 1,1912 1,2012 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 20,2129 "Negative"}
+{123 1,406 1,2125 "no",2126 "yes",2127 "yes",2128 3,2129 "Negative"}
+{408 1,437 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{895 1,982 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{247 1,278 1,373 1,895 1,1912 1,1939 1,1950 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Positive"}
+{1181 1,1346 1,1944 1,2067 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Negative"}
+{19 1,294 1,328 1,379 1,1006 1,1196 1,1944 1,2035 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 9,2129 "Negative"}
+{895 1,1756 1,2125 "no",2126 "yes",2127 "yes",2128 2,2129 "Negative"}
+{129 1,158 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{110 1,282 1,406 1,895 1,1236 1,1335 1,1805 1,1912 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 17,2129 "Negative"}
+{86 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Positive"}
+{152 1,560 1,969 1,990 1,1780 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 12,2129 "Negative"}
+{11 1,43 1,62 1,161 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{282 1,407 1,546 1,601 1,713 1,1037 1,1152 1,1335 1,1662 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 17,2129 "Negative"}
+{328 1,406 1,990 1,1125 1,1284 1,1335 1,1532 1,1912 1,2038 1,2050 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Negative"}
+{328 1,406 1,990 1,1037 1,1125 1,1284 1,1335 1,1532 1,1912 1,2038 1,2050 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Positive"}
+{203 1,310 1,318 1,1335 1,1593 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{328 1,472 1,678 1,759 1,771 1,1771 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{1037 1,1108 1,1247 1,1335 1,1550 1,1912 1,1918 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Negative"}
+{189 1,456 1,1037 1,1785 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{278 1,324 1,919 1,1172 1,1647 1,1912 1,1944 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Negative"}
+{247 1,875 1,990 1,1246 1,1725 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{247 1,318 1,512 1,895 1,1037 1,1166 1,1335 1,1647 1,1671 1,1912 1,1944 1,2013 1,2049 1,2125 "no",2126 "no",2127 "yes",2128 16,2129 "Negative"}
+{1273 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{318 1,328 1,406 1,498 1,908 1,1037 1,1126 1,1323 1,1335 1,1395 1,1912 1,1937 1,2050 1,2119 1,2125 "no",2126 "no",2127 "yes",2128 23,2129 "Positive"}
+{228 1,462 1,990 1,1037 1,1346 1,1813 1,1818 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Positive"}
+{869 1,1037 1,1206 1,1985 1,2102 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{1153 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{990 1,1037 1,1435 1,1949 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Negative"}
+{328 1,465 1,544 1,987 1,990 1,1037 1,1112 1,1917 1,2093 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Negative"}
+{1218 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{35 1,102 1,329 1,603 1,694 1,975 1,990 1,1037 1,1195 1,1335 1,1346 1,2073 1,2125 "no",2126 "yes",2127 "yes",2128 14,2129 "Negative"}
+{282 1,433 1,602 1,861 1,990 1,1037 1,1335 1,1349 1,1413 1,1440 1,1624 1,1785 1,1813 1,1912 1,2050 1,2054 1,2082 1,2125 "no",2126 "no",2127 "yes",2128 26,2129 "Negative"}
+{2125 "no",2126 "no",2127 "yes",2128 1,2129 "Negative"}
+{367 1,446 1,600 1,1037 1,1335 1,1346 1,1349 1,1708 1,1912 1,1945 1,2125 "no",2126 "yes",2127 "yes",2128 14,2129 "Negative"}
+{98 1,406 1,1091 1,1308 1,1430 1,2111 1,2125 "no",2126 "yes",2127 "yes",2128 16,2129 "Negative"}
+{869 1,2125 "no",2126 "no",2127 "no",2128 1,2129 "Negative"}
+{136 1,228 1,278 1,282 1,491 1,800 1,895 1,918 1,1016 1,1037 1,1645 1,1746 1,1901 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 17,2129 "Negative"}
+{4 1,160 1,165 1,529 1,918 1,990 1,1037 1,1377 1,1886 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 18,2129 "Negative"}
+{406 1,1037 1,1271 1,1912 1,2038 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{1810 1,1944 1,1967 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Negative"}
+{1037 1,1828 1,2073 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{328 1,480 1,1037 1,1039 1,1264 1,1335 1,1545 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Positive"}
+{157 1,182 1,282 1,399 1,856 1,918 1,1037 1,1153 1,1266 1,1335 1,1346 1,1371 1,1428 1,1436 1,1617 1,1912 1,1944 1,1968 1,2125 "no",2126 "no",2127 "yes",2128 28,2129 "Negative"}
+{1335 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{694 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{282 1,299 1,328 1,702 1,1335 1,1518 1,1567 1,1852 1,1912 1,2050 1,2124 1,2125 "no",2126 "no",2127 "yes",2128 24,2129 "Negative"}
+{617 1,1346 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{123 1,234 1,282 1,406 1,867 1,895 1,979 1,1037 1,1049 1,1091 1,1526 1,1658 1,1662 1,1813 1,1940 1,1944 1,2075 1,2125 "no",2126 "yes",2127 "yes",2128 19,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{328 1,333 1,536 1,1335 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 6,2129 "Positive"}
+{142 1,318 1,949 1,979 1,1037 1,1335 1,2024 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Positive"}
+{278 1,281 1,492 1,918 1,1446 1,1971 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{377 1,1346 1,2096 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{918 1,1335 1,1446 1,1658 1,1912 1,1940 1,2091 1,2117 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Positive"}
+{2 1,95 1,406 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{282 1,406 1,954 1,1037 1,1335 1,1912 1,2015 1,2038 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Positive"}
+{138 1,282 1,308 1,437 1,897 1,1037 1,1335 1,1719 1,1723 1,1912 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 25,2129 "Negative"}
+{300 1,662 1,901 1,1335 1,1349 1,1756 1,1989 1,2125 "no",2126 "no",2127 "no",2128 12,2129 "Negative"}
+{93 1,166 1,282 1,406 1,918 1,1091 1,1335 1,1407 1,1455 1,1820 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 16,2129 "Negative"}
+{1273 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{510 1,606 1,1037 1,1723 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{282 1,581 1,969 1,1441 1,1529 1,1576 1,1747 1,1944 1,2050 1,2065 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{23 1,55 1,108 1,211 1,947 1,1335 1,1912 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Negative"}
+{7 1,202 1,940 1,1037 1,1114 1,1529 1,1747 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 9,2129 "Negative"}
+{295 1,883 1,1037 1,1349 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{102 1,169 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{133 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{236 1,1316 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{318 1,895 1,1346 1,1833 1,1944 1,2067 1,2096 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Positive"}
+{120 1,274 1,278 1,282 1,406 1,415 1,901 1,969 1,1091 1,1098 1,1346 1,1516 1,1603 1,1756 1,1912 1,1944 1,2071 1,2098 1,2104 1,2125 "no",2126 "no",2127 "yes",2128 29,2129 "Negative"}
+{954 1,1037 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{151 1,249 1,282 1,437 1,485 1,503 1,563 1,833 1,839 1,895 1,1037 1,1223 1,1335 1,1647 1,1912 1,1918 1,1944 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 25,2129 "Negative"}
+{249 1,282 1,318 1,328 1,483 1,1037 1,1644 1,1861 1,1912 1,1940 1,2125 "no",2126 "yes",2127 "yes",2128 21,2129 "Negative"}
+{318 1,328 1,667 1,963 1,990 1,1037 1,1223 1,1682 1,1745 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{918 1,1597 1,1912 1,1940 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{944 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{665 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{248 1,665 1,1348 1,1912 1,1944 1,2084 1,2125 "no",2126 "yes",2127 "yes",2128 8,2129 "Negative"}
+{282 1,543 1,692 1,895 1,1510 1,1539 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{278 1,282 1,310 1,318 1,437 1,510 1,1034 1,1037 1,1335 1,1340 1,1369 1,1723 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 19,2129 "Negative"}
+{282 1,416 1,709 1,895 1,942 1,990 1,1335 1,1412 1,1718 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{688 1,947 1,1335 1,1719 1,1781 1,1912 1,1944 1,1974 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Negative"}
+{313 1,547 1,1037 1,1335 1,1613 1,1699 1,1781 1,1914 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{282 1,328 1,469 1,663 1,969 1,1335 1,1408 1,1678 1,1912 1,1944 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 3,2129 "Negative"}
+{694 1,918 1,963 1,969 1,990 1,1021 1,1037 1,1114 1,1647 1,1975 1,2003 1,2070 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{79 1,164 1,406 1,637 1,1091 1,1294 1,1424 1,1632 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Negative"}
+{765 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{333 1,2125 "no",2126 "no",2127 "yes",2128 1,2129 "Negative"}
+{282 1,369 1,473 1,476 1,1108 1,1315 1,1335 1,1478 1,1912 1,1933 1,2125 "no",2126 "no",2127 "yes",2128 16,2129 "Positive"}
+{798 1,1296 1,1335 1,1912 1,2076 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{14 1,278 1,321 1,437 1,918 1,989 1,1121 1,1335 1,1346 1,1648 1,2050 1,2070 1,2125 "no",2126 "yes",2127 "yes",2128 19,2129 "Negative"}
+{401 1,463 1,1944 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{59 1,94 1,169 1,278 1,860 1,895 1,909 1,1037 1,1153 1,1441 1,1702 1,1912 1,2050 1,2075 1,2125 "no",2126 "yes",2127 "yes",2128 20,2129 "Negative"}
+{860 1,895 1,1153 1,1819 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{164 1,328 1,768 1,799 1,803 1,1006 1,1066 1,1185 1,1335 1,1349 1,1670 1,1673 1,1692 1,1693 1,1694 1,1840 1,1912 1,1918 1,1944 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 25,2129 "Negative"}
+{386 1,437 1,490 1,1037 1,1335 1,1441 1,1754 1,1912 1,1922 1,2114 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{282 1,437 1,1136 1,1160 1,1427 1,1909 1,1912 1,1989 1,2015 1,2050 1,2062 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Negative"}
+{214 1,278 1,328 1,1037 1,1357 1,2002 1,2125 "no",2126 "yes",2127 "yes",2128 8,2129 "Negative"}
+{94 1,328 1,694 1,990 1,1006 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 8,2129 "Negative"}
+{328 1,433 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{1037 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Positive"}
+{560 1,587 1,637 1,1037 1,1385 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{100 1,183 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 6,2129 "Positive"}
+{282 1,1944 1,1969 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{221 1,282 1,491 1,637 1,1017 1,1037 1,1081 1,1512 1,1746 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{199 1,250 1,328 1,694 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{16 1,50 1,98 1,158 1,241 1,278 1,1037 1,1912 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 11,2129 "Negative"}
+{16 1,50 1,406 1,1037 1,1346 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 7,2129 "Positive"}
+{216 1,282 1,318 1,364 1,547 1,884 1,1037 1,1335 1,1395 1,1723 1,1912 1,1949 1,2125 "no",2126 "no",2127 "yes",2128 19,2129 "Negative"}
+{278 1,524 1,744 1,893 1,944 1,969 1,1037 1,1108 1,1113 1,1182 1,1335 1,1817 1,1896 1,1912 1,2070 1,2125 "no",2126 "no",2127 "yes",2128 20,2129 "Negative"}
+{140 1,210 1,282 1,318 1,1037 1,1377 1,1445 1,1723 1,1896 1,1912 1,1950 1,2084 1,2088 1,2092 1,2125 "no",2126 "no",2127 "yes",2128 24,2129 "Negative"}
+{318 1,524 1,870 1,893 1,920 1,1160 1,1335 1,1701 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{407 1,509 1,736 1,1002 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{152 1,707 1,895 1,1037 1,1081 1,1444 1,1669 1,1685 1,1911 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Negative"}
+{152 1,271 1,707 1,895 1,963 1,969 1,1037 1,1081 1,1335 1,1373 1,1444 1,1555 1,1669 1,1685 1,1761 1,1867 1,1911 1,1912 1,2015 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 24,2129 "Positive"}
+{978 1,1693 1,1944 1,1988 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{147 1,249 1,699 1,870 1,914 1,1037 1,1119 1,1554 1,1693 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 11,2129 "Negative"}
+{918 1,1037 1,1444 1,2125 "no",2126 "yes",2127 "yes",2128 3,2129 "Positive"}
+{3 1,452 1,745 1,895 1,990 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Positive"}
+{229 1,249 1,1037 1,1223 1,1647 1,1663 1,1704 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{895 1,938 1,1223 1,1299 1,1335 1,1350 1,1411 1,1684 1,1911 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Positive"}
+{282 1,2125 "no",2126 "no",2127 "yes",2128 1,2129 "Negative"}
+{287 1,861 1,1037 1,1395 1,1912 1,1949 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Negative"}
+{1955 1,2125 "no",2126 "yes",2127 "yes",2128 1,2129 "Negative"}
+{559 1,770 1,963 1,966 1,1045 1,1212 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Positive"}
+{87 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Positive"}
+{406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Positive"}
+{113 1,164 1,406 1,1037 1,1346 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 7,2129 "Positive"}
+{333 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{333 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{97 1,145 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{424 1,650 1,990 1,1037 1,1444 1,1460 1,1806 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{83 1,161 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{25 1,33 1,145 1,272 1,282 1,318 1,578 1,792 1,881 1,1037 1,1124 1,1731 1,1912 1,2050 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 28,2129 "Negative"}
+{1196 1,2125 "no",2126 "no",2127 "yes",2128 1,2129 "Negative"}
+{1944 1,2067 1,2125 "no",2126 "yes",2127 "yes",2128 3,2129 "Positive"}
+{26 1,27 1,282 1,318 1,511 1,605 1,678 1,874 1,947 1,969 1,1142 1,1335 1,1418 1,1912 1,2097 1,2125 "no",2126 "yes",2127 "yes",2128 22,2129 "Negative"}
+{29 1,278 1,437 1,555 1,651 1,744 1,817 1,1037 1,1136 1,1141 1,1912 1,1944 1,2034 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 19,2129 "Negative"}
+{437 1,817 1,1335 1,1366 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Positive"}
+{29 1,158 1,185 1,282 1,308 1,744 1,883 1,918 1,969 1,1266 1,1335 1,1461 1,1677 1,1738 1,1781 1,1912 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 21,2129 "Negative"}
+{29 1,158 1,185 1,282 1,308 1,651 1,744 1,883 1,918 1,969 1,1266 1,1335 1,1461 1,1677 1,1738 1,1781 1,1912 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 24,2129 "Positive"}
+{30 1,744 1,1037 1,1128 1,1912 1,1922 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{268 1,282 1,895 1,1051 1,1092 1,1093 1,1153 1,1295 1,1335 1,1912 1,1914 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{30 1,167 1,268 1,282 1,348 1,1051 1,1092 1,1335 1,1912 1,1914 1,1944 1,2067 1,2125 "no",2126 "yes",2127 "yes",2128 16,2129 "Negative"}
+{31 1,159 1,282 1,313 1,1037 1,1127 1,1781 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Negative"}
+{282 1,432 1,510 1,792 1,1335 1,1461 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{348 1,990 1,1240 1,1335 1,1349 1,1719 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 7,2129 "Positive"}
+{974 1,1335 1,1635 1,1650 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{906 1,1093 1,1335 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{272 1,282 1,318 1,353 1,651 1,901 1,918 1,936 1,1009 1,1037 1,1098 1,1124 1,1189 1,1284 1,1286 1,1292 1,1335 1,1346 1,1912 1,1915 1,1918 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 35,2129 "Positive"}
+{32 1,163 1,247 1,282 1,388 1,510 1,787 1,956 1,963 1,1213 1,1252 1,1335 1,1346 1,1553 1,1912 1,1944 1,1959 1,1989 1,1999 1,2125 "no",2126 "no",2127 "yes",2128 28,2129 "Negative"}
+{376 1,539 1,740 1,830 1,895 1,945 1,975 1,1037 1,1335 1,1912 1,2113 1,2125 "no",2126 "yes",2127 "yes",2128 11,2129 "Negative"}
+{550 1,693 1,1175 1,1316 1,1335 1,1706 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{34 1,282 1,510 1,550 1,693 1,803 1,935 1,1037 1,1175 1,1193 1,1316 1,1335 1,1706 1,1912 1,1940 1,1944 1,2050 1,2071 1,2125 "no",2126 "yes",2127 "yes",2128 25,2129 "Positive"}
+{1162 1,1335 1,1733 1,1944 1,2110 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{263 1,282 1,318 1,535 1,577 1,579 1,651 1,816 1,817 1,1094 1,1124 1,1126 1,1133 1,1335 1,1346 1,1522 1,1523 1,1778 1,1912 1,1944 1,2068 1,2125 "no",2126 "no",2127 "yes",2128 36,2129 "Negative"}
+{69 1,145 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{437 1,532 1,558 1,918 1,990 1,1037 1,1136 1,1425 1,1584 1,1717 1,1944 1,1981 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 17,2129 "Negative"}
+{23 1,99 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Negative"}
+{328 1,1441 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{328 1,893 1,895 1,984 1,1037 1,1441 1,1690 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{282 1,374 1,967 1,990 1,1335 1,1630 1,2082 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{126 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{954 1,1037 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{150 1,538 1,1336 1,1701 1,1803 1,1912 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 9,2129 "Negative"}
+{35 1,151 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Negative"}
+{128 1,167 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 6,2129 "Positive"}
+{406 1,639 1,1037 1,1323 1,1335 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{328 1,970 1,1329 1,1335 1,1912 1,1918 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 11,2129 "Negative"}
+{35 1,128 1,278 1,406 1,637 1,669 1,893 1,895 1,1037 1,1091 1,1335 1,1446 1,1912 1,2075 1,2125 "no",2126 "yes",2127 "yes",2128 20,2129 "Positive"}
+{918 1,1108 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{282 1,328 1,524 1,1911 1,1912 1,1937 1,1944 1,2125 "no",2126 "no",2127 "no",2128 15,2129 "Negative"}
+{271 1,282 1,318 1,348 1,541 1,881 1,919 1,944 1,969 1,990 1,1037 1,1171 1,1242 1,1289 1,1335 1,1502 1,1725 1,1751 1,1888 1,1912 1,2049 1,2050 1,2062 1,2071 1,2125 "no",2126 "yes",2127 "yes",2128 34,2129 "Negative"}
+{369 1,651 1,1037 1,1140 1,1814 1,2125 "no",2126 "yes",2127 "yes",2128 6,2129 "Positive"}
+{348 1,1944 1,2067 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{725 1,895 1,990 1,1037 1,1276 1,1382 1,1757 1,1890 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Positive"}
+{282 1,318 1,389 1,437 1,881 1,990 1,995 1,1280 1,1335 1,1786 1,1912 1,2065 1,2088 1,2094 1,2125 "no",2126 "no",2127 "yes",2128 30,2129 "Negative"}
+{1815 1,2125 "no",2126 "no",2127 "no",2128 1,2129 "Negative"}
+{87 1,89 1,261 1,282 1,806 1,832 1,911 1,2125 "no",2126 "no",2127 "no",2128 7,2129 "Negative"}
+{1037 1,1415 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{348 1,1037 1,1912 1,2050 1,2064 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{328 1,966 1,1335 1,1346 1,1814 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{116 1,205 1,251 1,282 1,474 1,651 1,694 1,1037 1,1080 1,1126 1,1335 1,1346 1,1376 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 21,2129 "Positive"}
+{318 1,933 1,1043 1,1335 1,1912 1,2117 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{437 1,503 1,1197 1,1335 1,1387 1,1912 1,1944 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{263 1,282 1,305 1,569 1,675 1,691 1,1037 1,1045 1,1279 1,1912 1,2050 1,2099 1,2101 1,2125 "no",2126 "no",2127 "yes",2128 28,2129 "Negative"}
+{263 1,282 1,305 1,569 1,675 1,691 1,1037 1,1045 1,1279 1,1912 1,2050 1,2099 1,2101 1,2125 "no",2126 "yes",2127 "yes",2128 29,2129 "Positive"}
+{2125 "no",2126 "no",2127 "no",2128 0,2129 "Negative"}
+{98 1,145 1,234 1,278 1,406 1,918 1,1091 1,1883 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Positive"}
+{113 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{912 1,1037 1,1273 1,1912 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 7,2129 "Negative"}
+{462 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{141 1,166 1,282 1,498 1,967 1,1091 1,1218 1,1922 1,1944 1,1989 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{115 1,174 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{117 1,168 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 6,2129 "Positive"}
+{406 1,1037 1,1166 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{119 1,282 1,334 1,377 1,523 1,833 1,1037 1,1111 1,1335 1,1849 1,1912 1,1944 1,2073 1,2125 "no",2126 "yes",2127 "yes",2128 17,2129 "Positive"}
+{121 1,201 1,318 1,1255 1,1723 1,1742 1,1906 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Positive"}
+{122 1,358 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{122 1,282 1,358 1,1013 1,1037 1,1158 1,1256 1,1674 1,1933 1,1944 1,1969 1,2039 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 27,2129 "Positive"}
+{739 1,990 1,1037 1,1255 1,1417 1,1791 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Positive"}
+{1037 1,1234 1,1878 1,1879 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{149 1,282 1,833 1,1335 1,1868 1,1912 1,1955 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Negative"}
+{149 1,287 1,881 1,1037 1,1368 1,1912 1,2100 1,2125 "no",2126 "yes",2127 "yes",2128 15,2129 "Negative"}
+{19 1,152 1,278 1,328 1,783 1,868 1,895 1,1037 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 19,2129 "Negative"}
+{40 1,153 1,2092 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{35 1,40 1,145 1,154 1,160 1,163 1,171 1,204 1,282 1,328 1,396 1,437 1,851 1,889 1,1037 1,1040 1,1184 1,1335 1,1735 1,1832 1,1854 1,1877 1,1879 1,1893 1,2001 1,2073 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 40,2129 "Negative"}
+{155 1,282 1,1335 1,1346 1,1912 1,1989 1,2125 "no",2126 "yes",2127 "yes",2128 15,2129 "Negative"}
+{155 1,318 1,589 1,848 1,1335 1,1346 1,1573 1,1701 1,1746 1,1901 1,1912 1,1924 1,2050 1,2061 1,2125 "no",2126 "no",2127 "yes",2128 21,2129 "Negative"}
+{650 1,739 1,1136 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{155 1,166 1,881 1,1037 1,1175 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{282 1,990 1,1037 1,1166 1,1629 1,2082 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{272 1,282 1,318 1,374 1,438 1,848 1,966 1,1346 1,1521 1,1861 1,1901 1,2125 "no",2126 "no",2127 "yes",2128 50,2129 "Negative"}
+{126 1,282 1,671 1,918 1,990 1,1037 1,1580 1,2125 "no",2126 "yes",2127 "yes",2128 17,2129 "Positive"}
+{127 1,2092 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Negative"}
+{127 1,129 1,278 1,282 1,318 1,338 1,774 1,895 1,1037 1,1511 1,1588 1,1590 1,1848 1,1912 1,1944 1,2097 1,2125 "no",2126 "no",2127 "yes",2128 24,2129 "Negative"}
+{127 1,129 1,278 1,282 1,318 1,338 1,774 1,895 1,1037 1,1511 1,1588 1,1590 1,1848 1,1912 1,1944 1,2097 1,2125 "no",2126 "yes",2127 "yes",2128 25,2129 "Positive"}
+{135 1,434 1,1037 1,1280 1,1912 1,2088 1,2097 1,2125 "no",2126 "yes",2127 "yes",2128 11,2129 "Negative"}
+{102 1,158 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{348 1,990 1,1037 1,1268 1,1335 1,1803 1,1937 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{76 1,167 1,406 1,683 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{35 1,91 1,406 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Positive"}
+{282 1,316 1,374 1,439 1,772 1,966 1,1053 1,1166 1,1335 1,1388 1,1481 1,1912 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 19,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{954 1,1037 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{954 1,1037 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{658 1,1150 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Negative"}
+{1273 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 2,2129 "Negative"}
+{75 1,282 1,526 1,881 1,906 1,928 1,963 1,1037 1,1748 1,1912 1,1914 1,2125 "no",2126 "yes",2127 "yes",2128 16,2129 "Negative"}
+{448 1,694 1,1037 1,1335 1,2125 "no",2126 "yes",2127 "yes",2128 4,2129 "Negative"}
+{282 1,1335 1,2125 "no",2126 "no",2127 "no",2128 5,2129 "Negative"}
+{282 1,335 1,782 1,858 1,1037 1,1042 1,1095 1,1288 1,1572 1,1578 1,1898 1,1912 1,1944 1,2017 1,2020 1,2090 1,2125 "no",2126 "no",2127 "yes",2128 19,2129 "Negative"}
+{71 1,282 1,305 1,385 1,534 1,1037 1,1124 1,1335 1,1389 1,1504 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 29,2129 "Negative"}
+{278 1,954 1,1006 1,1037 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{282 1,328 1,333 1,1037 1,1145 1,1203 1,1305 1,1335 1,1391 1,1736 1,1912 1,2071 1,2073 1,2097 1,2125 "no",2126 "no",2127 "yes",2128 30,2129 "Negative"}
+{16 1,53 1,103 1,158 1,947 1,1335 1,1912 1,1924 1,1987 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Positive"}
+{2125 "no",2126 "no",2127 "yes",2128 1,2129 "Positive"}
+{111 1,278 1,282 1,406 1,901 1,1091 1,1335 1,1442 1,1486 1,1516 1,1903 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 16,2129 "Negative"}
+{1401 1,2125 "no",2126 "no",2127 "yes",2128 1,2129 "Negative"}
+{328 1,1240 1,1765 1,1912 1,2092 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{90 1,158 1,406 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{901 1,1091 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{742 1,918 1,969 1,1037 1,1263 1,1279 1,1335 1,1395 1,1580 1,1817 1,1912 1,1944 1,1989 1,2020 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Positive"}
+{1328 1,2125 "no",2126 "no",2127 "no",2128 15,2129 "Positive"}
+{385 1,1091 1,1124 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{282 1,647 1,766 1,901 1,1218 1,1335 1,1636 1,1766 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 13,2129 "Negative"}
+{246 1,282 1,318 1,398 1,901 1,1236 1,1335 1,1723 1,1912 1,1979 1,2125 "no",2126 "no",2127 "yes",2128 21,2129 "Positive"}
+{594 1,1084 1,1097 1,1335 1,1912 1,1944 1,2072 1,2125 "no",2126 "no",2127 "no",2128 10,2129 "Negative"}
+{916 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{84 1,169 1,1037 1,1154 1,1189 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 8,2129 "Negative"}
+{1647 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Positive"}
+{369 1,496 1,547 1,1037 1,1335 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Negative"}
+{132 1,160 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Negative"}
+{51 1,2125 "no",2126 "no",2127 "yes",2128 1,2129 "Positive"}
+{1944 1,2125 "no",2126 "yes",2127 "yes",2128 1,2129 "Negative"}
+{852 1,1108 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{63 1,160 1,406 1,1037 1,1346 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{247 1,1273 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{1006 1,1273 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{1273 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 2,2129 "Negative"}
+{906 1,1071 1,1912 1,2125 "no",2126 "no",2127 "no",2128 4,2129 "Negative"}
+{1037 1,1612 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{217 1,963 1,987 1,990 1,1020 1,1055 1,1270 1,1346 1,1736 1,1894 1,2096 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Negative"}
+{317 1,514 1,739 1,990 1,1037 1,1056 1,1279 1,1316 1,1335 1,1851 1,1911 1,1912 1,1937 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 15,2129 "Negative"}
+{327 1,1091 1,1912 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{696 1,1037 1,1211 1,1237 1,1278 1,1335 1,1371 1,1599 1,1909 1,1912 1,2020 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{1335 1,2125 "no",2126 "yes",2127 "yes",2128 3,2129 "Negative"}
+{415 1,840 1,966 1,968 1,1037 1,1097 1,1284 1,1352 1,1574 1,1736 1,1749 1,1888 1,1912 1,1997 1,2125 "no",2126 "no",2127 "no",2128 17,2129 "Negative"}
+{954 1,1037 1,2015 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{295 1,554 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{13 1,278 1,282 1,437 1,585 1,1217 1,1335 1,1499 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 19,2129 "Negative"}
+{282 1,2125 "no",2126 "no",2127 "no",2128 1,2129 "Negative"}
+{12 1,23 1,145 1,272 1,282 1,479 1,633 1,1037 1,1335 1,1346 1,1362 1,1435 1,1736 1,1912 1,1949 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 27,2129 "Negative"}
+{282 1,384 1,433 1,979 1,990 1,1258 1,1335 1,1349 1,1494 1,1944 1,2082 1,2125 "no",2126 "no",2127 "yes",2128 19,2129 "Negative"}
+{236 1,282 1,380 1,406 1,498 1,883 1,963 1,1037 1,1070 1,1176 1,1285 1,1335 1,1349 1,1742 1,1789 1,1911 1,1912 1,1922 1,1989 1,2068 1,2125 "no",2126 "no",2127 "yes",2128 26,2129 "Negative"}
+{129 1,171 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{278 1,900 1,955 1,1037 1,1280 1,1657 1,2068 1,2125 "no",2126 "yes",2127 "yes",2128 8,2129 "Positive"}
+{2125 "no",2126 "no",2127 "no",2128 1,2129 "Negative"}
+{406 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{457 1,966 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{152 1,282 1,881 1,895 1,926 1,990 1,1037 1,1134 1,1278 1,1335 1,1373 1,1912 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 17,2129 "Negative"}
+{272 1,282 1,328 1,350 1,962 1,969 1,1091 1,1442 1,1683 1,1762 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Positive"}
+{901 1,1218 1,1944 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Negative"}
+{282 1,318 1,501 1,586 1,657 1,676 1,895 1,966 1,1037 1,1091 1,1221 1,1406 1,1895 1,1912 1,1933 1,2097 1,2125 "no",2126 "yes",2127 "yes",2128 18,2129 "Negative"}
+{328 1,941 1,1037 1,1505 1,1739 1,1912 1,1949 1,1950 1,2125 "no",2126 "yes",2127 "yes",2128 11,2129 "Negative"}
+{212 1,282 1,1037 1,1132 1,1346 1,1813 1,1827 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 8,2129 "Negative"}
+{130 1,168 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Negative"}
+{248 1,282 1,437 1,486 1,665 1,926 1,1019 1,1037 1,1289 1,1912 1,1922 1,1925 1,1937 1,2068 1,2125 "no",2126 "no",2127 "yes",2128 19,2129 "Negative"}
+{252 1,278 1,318 1,462 1,963 1,1335 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Positive"}
+{318 1,1069 1,1142 1,1335 1,1912 1,2050 1,2085 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Positive"}
+{282 1,895 1,946 1,1139 1,1249 1,1335 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{149 1,152 1,282 1,431 1,437 1,540 1,733 1,739 1,895 1,968 1,988 1,1037 1,1098 1,1192 1,1538 1,1701 1,1896 1,1912 1,2125 "no",2126 "no",2127 "no",2128 23,2129 "Negative"}
+{406 1,711 1,1037 1,1102 1,1335 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{2125 "no",2126 "no",2127 "no",2128 0,2129 "Negative"}
+{1647 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Positive"}
+{328 1,333 1,610 1,739 1,969 1,1397 1,1937 1,2050 1,2072 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Negative"}
+{1647 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Positive"}
+{177 1,333 1,1037 1,1912 1,1918 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{437 1,935 1,1335 1,1912 1,1940 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Positive"}
+{126 1,406 1,1037 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Positive"}
+{114 1,169 1,282 1,359 1,406 1,421 1,895 1,901 1,960 1,1037 1,1091 1,1441 1,1704 1,1744 1,1912 1,2075 1,2125 "no",2126 "no",2127 "yes",2128 26,2129 "Negative"}
+{11 1,61 1,2125 "no",2126 "yes",2127 "yes",2128 3,2129 "Positive"}
+{278 1,437 1,1081 1,1510 1,1746 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 6,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{278 1,436 1,779 1,1037 1,1079 1,1204 1,1230 1,1335 1,1339 1,1346 1,1438 1,1477 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 17,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{507 1,1037 1,1506 1,1714 1,1912 1,1955 1,2105 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{623 1,1043 1,1463 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{235 1,371 1,963 1,985 1,1037 1,1335 1,1349 1,1386 1,1912 1,1951 1,2100 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{282 1,516 1,979 1,1681 1,2023 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{1273 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{247 1,318 1,367 1,436 1,497 1,918 1,950 1,971 1,1736 1,1790 1,1944 1,2033 1,2047 1,2125 "no",2126 "no",2127 "yes",2128 19,2129 "Negative"}
+{132 1,335 1,471 1,867 1,871 1,881 1,910 1,963 1,979 1,1037 1,1049 1,1275 1,1335 1,1416 1,1658 1,1682 1,1701 1,1736 1,1911 1,1912 1,2088 1,2113 1,2125 "no",2126 "yes",2127 "yes",2128 30,2129 "Negative"}
+{702 1,869 1,895 1,1265 1,1896 1,1930 1,2015 1,2088 1,2102 1,2125 "no",2126 "no",2127 "yes",2128 14,2129 "Negative"}
+{153 1,282 1,869 1,1037 1,1609 1,1989 1,2125 "no",2126 "yes",2127 "yes",2128 9,2129 "Negative"}
+{979 1,1196 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{693 1,1019 1,1579 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{1856 1,1944 1,2067 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{149 1,328 1,979 1,1037 1,1335 1,1346 1,1564 1,2059 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Negative"}
+{217 1,708 1,718 1,1037 1,1287 1,1300 1,1745 1,1882 1,2050 1,2072 1,2125 "no",2126 "yes",2127 "yes",2128 13,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{374 1,918 1,966 1,1716 1,1820 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{1335 1,1622 1,1793 1,1858 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{2125 "no",2126 "no",2127 "no",2128 1,2129 "Negative"}
+{22 1,90 1,179 1,369 1,373 1,649 1,762 1,1108 1,1262 1,1736 1,1912 1,1944 1,2015 1,2032 1,2125 "no",2126 "no",2127 "yes",2128 16,2129 "Negative"}
+{10 1,66 1,92 1,251 1,282 1,1037 1,1108 1,1160 1,1264 1,1346 1,1358 1,1736 1,1768 1,1909 1,1912 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 20,2129 "Negative"}
+{306 1,678 1,1037 1,1084 1,1335 1,1393 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Negative"}
+{282 1,1037 1,1175 1,1944 1,2067 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{217 1,318 1,1682 1,1912 1,1937 1,2125 "no",2126 "no",2127 "no",2128 5,2129 "Negative"}
+{794 1,1089 1,1335 1,1912 1,2050 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Negative"}
+{282 1,437 1,637 1,1091 1,1621 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{74 1,148 1,278 1,1037 1,1340 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Negative"}
+{282 1,328 1,723 1,977 1,979 1,992 1,1022 1,1323 1,1392 1,1537 1,1912 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 15,2129 "Negative"}
+{11 1,91 1,278 1,282 1,406 1,636 1,680 1,901 1,1091 1,1142 1,1249 1,1335 1,1346 1,1455 1,1498 1,2125 "no",2126 "yes",2127 "yes",2128 26,2129 "Negative"}
+{6 1,318 1,1335 1,1723 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{11 1,91 1,406 1,1037 1,1118 1,1346 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 11,2129 "Positive"}
+{282 1,347 1,671 1,745 1,918 1,990 1,1037 1,1226 1,1426 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{190 1,223 1,318 1,328 1,914 1,986 1,1015 1,1152 1,1254 1,1347 1,1358 1,1626 1,1733 1,1861 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 21,2129 "Negative"}
+{116 1,117 1,190 1,223 1,318 1,322 1,328 1,615 1,706 1,914 1,969 1,986 1,1015 1,1037 1,1152 1,1237 1,1254 1,1335 1,1347 1,1358 1,1365 1,1626 1,1733 1,1861 1,1912 1,1944 1,2050 1,2072 1,2091 1,2125 "no",2126 "yes",2127 "yes",2128 49,2129 "Positive"}
+{757 1,1335 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{442 1,768 1,928 1,1529 1,1944 1,2125 "no",2126 "yes",2127 "yes",2128 5,2129 "Negative"}
+{272 1,1037 1,1395 1,1912 1,1949 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{1335 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Negative"}
+{269 1,272 1,332 1,1912 1,1944 1,2125 "no",2126 "no",2127 "yes",2128 12,2129 "Negative"}
+{369 1,560 1,1087 1,1335 1,1400 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Negative"}
+{537 1,825 1,990 1,1335 1,1346 1,1544 1,1795 1,1912 1,1954 1,2036 1,2067 1,2125 "no",2126 "no",2127 "yes",2128 13,2129 "Negative"}
+{137 1,406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 4,2129 "Positive"}
+{121 1,167 1,406 1,1037 1,2125 "no",2126 "yes",2127 "yes",2128 6,2129 "Positive"}
+{507 1,1049 1,1286 1,1813 1,1912 1,2021 1,2125 "no",2126 "yes",2127 "no",2128 6,2129 "Positive"}
+{151 1,282 1,318 1,437 1,989 1,1030 1,1037 1,1200 1,1897 1,2015 1,2050 1,2088 1,2125 "no",2126 "yes",2127 "yes",2128 21,2129 "Negative"}
+{282 1,2125 "no",2126 "no",2127 "yes",2128 1,2129 "Negative"}
+{278 1,295 1,612 1,1005 1,1091 1,1186 1,1282 1,1332 1,1335 1,1346 1,1912 1,1944 1,2072 1,2125 "no",2126 "no",2127 "yes",2128 26,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{328 1,812 1,2125 "no",2126 "yes",2127 "yes",2128 2,2129 "Negative"}
+{328 1,651 1,812 1,1126 1,1580 1,1783 1,1912 1,2125 "no",2126 "yes",2127 "yes",2128 12,2129 "Negative"}
+{328 1,1037 1,1335 1,1488 1,1912 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 10,2129 "Negative"}
+{188 1,288 1,867 1,895 1,1068 1,1131 1,1346 1,1374 1,1510 1,1686 1,1746 1,1912 1,1941 1,2125 "no",2126 "yes",2127 "yes",2128 18,2129 "Negative"}
+{2125 "no",2126 "no",2127 "yes",2128 0,2129 "Positive"}
+{2125 "no",2126 "no",2127 "yes",2128 0,2129 "Positive"}
+{1335 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Positive"}
+{240 1,282 1,822 1,835 1,1248 1,1515 1,1865 1,1944 1,2026 1,2125 "no",2126 "no",2127 "yes",2128 10,2129 "Positive"}
+{282 1,318 1,562 1,2125 "no",2126 "no",2127 "no",2128 3,2129 "Positive"}
+{694 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Positive"}
+{406 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 2,2129 "Positive"}
+{918 1,949 1,1335 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{96 1,282 1,318 1,387 1,406 1,423 1,651 1,901 1,1037 1,1091 1,1110 1,1124 1,1455 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 18,2129 "Negative"}
+{148 1,282 1,318 1,757 1,1037 1,1335 1,1912 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 13,2129 "Negative"}
+{406 1,1037 1,1335 1,1912 1,1958 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Positive"}
+{213 1,328 1,1335 1,1915 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Negative"}
+{2125 "no",2126 "yes",2127 "yes",2128 0,2129 "Positive"}
+{437 1,632 1,682 1,1037 1,1343 1,1399 1,2004 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 8,2129 "Negative"}
+{40 1,58 1,95 1,171 1,430 1,576 1,739 1,895 1,929 1,990 1,1037 1,1124 1,1165 1,1335 1,1912 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 26,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 5,2129 "Positive"}
+{278 1,308 1,309 1,572 1,791 1,928 1,946 1,1037 1,1335 1,1363 1,1640 1,1721 1,1912 1,2072 1,2088 1,2125 "no",2126 "no",2127 "yes",2128 17,2129 "Positive"}
+{162 1,547 1,1037 1,1335 1,1825 1,1912 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 9,2129 "Negative"}
+{318 1,1335 1,1723 1,2125 "no",2126 "no",2127 "yes",2128 6,2129 "Negative"}
+{225 1,328 1,627 1,1037 1,1335 1,1912 1,2049 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 19,2129 "Negative"}
+{406 1,1037 1,2050 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Positive"}
+{295 1,1037 1,1440 1,1912 1,2125 "no",2126 "no",2127 "yes",2128 7,2129 "Positive"}
+{233 1,1241 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{295 1,1037 1,2125 "no",2126 "no",2127 "yes",2128 3,2129 "Negative"}
+{35 1,56 1,406 1,1037 1,1344 1,1346 1,1362 1,1851 1,2050 1,2125 "no",2126 "yes",2127 "yes",2128 12,2129 "Positive"}
